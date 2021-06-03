@@ -1,0 +1,278 @@
+@media only screen and ( max-width:480px) {
+    body {
+        margin: 4%;
+        margin-bottom: 0%;
+    }
+    nav {
+        height: 16%;
+        width: 100%;
+        margin-top: -12%;
+    }
+    nav .mainmenu {
+        height: 84%;
+        position: fixed;
+        top: 0;
+        right: 0;
+        left: 0;
+        z-index: -1;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: #000;
+        color: #000;
+        transition: top 1s ease;
+        display: none;
+    }
+    nav .mainmenu .closebtn {
+        display: block;
+        position: absolute;
+        top: 41%;
+        right: 47%;
+        font-size: xxx-large;
+    }
+    nav .Open_menu {
+        display: block;
+        margin-left: -81%;
+        margin-top: 7%;
+        font-size: 191%;
+    }
+    nav .logo {
+        display: none;
+    }
+    .H6 {
+        margin-top: 46%;
+        height: 0%;
+        margin-left: 69%;
+        font-size: 78%;
+    }
+    .H7 {
+        margin-top: 57%;
+        margin-left: -120%;
+        background: none;
+        font-size: 91%;
+    }
+    #home {
+        margin-top: 0%;
+        margin-left: -27%;
+        font-size: larger;
+        margin-bottom: 57%;
+        height: 22%;
+        top: -91%;
+    }
+    #aboutus {
+        margin-top: 0%;
+        margin-left: -20%;
+        font-size: larger;
+        margin-bottom: 57%;
+        height: 22%;
+        top: -46%;
+    }
+    .dropbtn {
+        margin-top: -29%;
+        margin-left: -11%;
+        height: 47%;
+        margin-bottom: 26%;
+        font-size: larger;
+        top: -66%;
+    }
+    .dropbtn:hover {
+        padding-bottom: 0%;
+    }
+    nav .mainmenu li a {
+        margin-top: -5%;
+        margin-left: -15%;
+        height: 53%;
+        font-size: larger;
+        top: -132%;
+        color: #000;
+    }
+    /* for the main image */
+    #IMG1 {
+        width: 109%;
+        height: 4%;
+        margin-left: -26%;
+    }
+    /* for the image after text  */
+    #fh {
+        margin-left: 28%;
+    }
+    /* for the name input box */
+    #ne {
+        margin-left: 11%;
+        margin-top: -2%;
+        font-weight: bolder;
+    }
+    #name {
+        width: 80%;
+        margin-top: -5%;
+        margin-left: 10%;
+        height: 30px;
+    }
+    /* for the email input */
+    #el {
+        margin-left: 11%;
+        margin-top: 4%;
+    }
+    .email {
+        width: 80%;
+        margin-top: -5%;
+        margin-left: 10%;
+        height: 30px;
+    }
+    /* for the phone section */
+    #pe {
+        margin-left: 11%;
+        margin-top: 4%;
+    }
+    #phone {
+        width: 80%;
+        margin-top: -5%;
+        margin-left: 10%;
+        height: 30px;
+    }
+    /* for the website section */
+    #we {
+        margin-left: 11%;
+        margin-top: 4%;
+    }
+    #website {
+        width: 80%;
+        margin-top: -5%;
+        margin-left: 10%;
+        height: 30px;
+    }
+    /* for the text area */
+    #tx {
+        margin-left: 11%;
+        margin-top: 4%;
+        font-weight: bolder;
+    }
+    #textbox {
+        width: 80%;
+        margin-top: -5%;
+        margin-left: 10%;
+    }
+    /* for the sumbit button */
+    #submit {
+        width: 30%;
+        margin-left: 36%;
+    }
+    /* for the green box */
+    #secondbox {
+        margin-top: 12%;
+        margin-left: -1%;
+        width: 100%;
+        text-align: center;
+    }
+    #ol {
+        padding: 0%;
+    }
+    .para {
+        padding: 0%;
+        width: 60%;
+        margin-left: 20%;
+    }
+    #qc {
+        padding: 0%;
+        margin-left: 1%;
+    }
+    #oh1 {
+        padding: 0%;
+    }
+    #para1 {
+        padding: 0%;
+        width: 60%;
+        margin-left: 20%;
+    }
+    #acr {
+        width: 27%;
+        padding: 0%;
+        padding-top: 2%;
+    }
+    /* for the last box */
+    /* for the quick contact section */
+    #qc1 {
+        margin-left: 17%;
+    }
+    .para5 {
+        font-size: 72%;
+        margin-left: 11%;
+    }
+    /* for the our address */
+    #oa {
+        margin-top: -19%;
+        margin-left: 62%;
+    }
+    #para6 {
+        font-size: 72%;
+        margin-top: 3.2%;
+        margin-left: 60%;
+    }
+    /* for the opening hour section */
+    #oh {
+        margin-top: 8%;
+        margin-left: 39%;
+    }
+    .para7 {
+        margin-left: 39%;
+        font-size: 72%;
+    }
+    /* for the image text section */
+    #img3 {
+        width: 33%;
+    }
+    #para8 {
+        font-size: 72%;
+        margin-left: 7%;
+    }
+    .para9 {
+        font-size: 72%;
+        margin-left: 7%;
+    }
+    /* for the service section */
+    #service {
+        margin-top: -34%;
+        margin-left: 58%;
+    }
+    #para10 {
+        font-size: 72%;
+        margin-top: 5%;
+        margin-left: 54%;
+    }
+    .para11 {
+        font-size: 72%;
+        margin-left: 54%;
+    }
+    /* for the technology service */
+    #Technology {
+        margin-top: 8%;
+        margin-left: 11%;
+    }
+    #para12 {
+        font-size: 72%;
+        margin-left: 11%;
+    }
+    .para13 {
+        font-size: 72%;
+        margin-left: 11%;
+    }
+    /* for the we're hiring section */
+    #wh {
+        margin-top: -35%;
+        margin-left: 56%;
+    }
+    #para14 {
+        font-size: 72%;
+        margin-left: 54%;
+    }
+    .para15 {
+        font-size: 72%;
+        margin-left: 54%;
+    }
+    /* for the footer line */
+    #footer {
+        margin-top: 27%;
+        margin-left: 19%;
+        font-size: 66%;
+    }
+}

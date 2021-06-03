@@ -1,0 +1,176 @@
+@media only screen and ( max-width:480px){
+    body{
+        margin: 4%;
+        margin-bottom: 0%;
+    }
+    nav{
+        height: 12%;
+        width: 100%;
+        margin-top: -5%;
+    }
+
+    nav .mainmenu{
+        height: 100vh;
+        position: fixed;
+        top: 0;
+        right: 0;
+        left: 0;
+        z-index: -1;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: #000;
+        color: #000;
+        transition: top 1s ease;
+        display: none;
+    }
+    nav .mainmenu .closebtn{
+        display: block;
+        position: absolute;
+        top: 19%;
+        right: 49%;
+        font-size: xxx-large;
+    }
+    nav .Open_menu{
+        display: block;
+        margin-left: -3%;
+        margin-top: 8%;
+        font-size: xxx-large;
+    }
+    nav .logo{
+        display: none;
+    }
+    .H6{
+        margin-top: 36%;
+        height: 0%;
+        margin-left: 79%;
+    }
+    .H7{
+        margin-top: 44.6%;
+        margin-left: -120%;
+        background: none;
+    }
+    #home{
+        margin-top: 72%;
+        margin-left: -27%;
+        font-size: larger;
+        margin-bottom: 57%;
+        height: 22%;
+    }
+    #aboutus{
+        margin-top: -51%;
+        margin-left: -17%;
+        font-size: larger;
+        height: 72%;
+    }
+    .dropbtn{
+        margin-top: 25%;
+        margin-left: -8%;
+        height: 24%;
+        margin-bottom: 26%;
+        font-size: larger;
+    }
+    .dropbtn:hover{
+        padding-bottom: 0%;
+    }
+    nav .mainmenu li a{
+        margin-top: 10%;
+        margin-left: -15%;
+        height: 53%;
+        font-size: larger;
+        color: #000;
+    }
+    /* for the image */
+    #IMG1{
+        margin-left: -59%;
+        margin-top: -59%;
+    }
+    #at{
+        margin-top: -80%;
+        font-size: 200%;
+        margin-left: 16%;
+        color: white;
+    }
+    #atp{
+        margin-left: -5%; 
+    }
+    /* for the image after text */
+    #sechead{
+        margin-left: -29%;
+    }
+    #para2{
+        margin-left: -32%;
+        width: 129%;
+        font-size: x-large;
+    }
+    /* for the blue image */
+    #IMG2{
+        margin-top: -63%;
+        margin-left: 119%;
+    }
+    /* for the purple box */
+    #box2{
+        width: 295%;
+        margin-left: -37%;
+        height: 17%;
+        font-size: x-large;
+    }
+    /* for the green box  */
+    #box3{
+        height: 23%;
+        margin-left: 66%;
+    }
+    #btn{
+        font-size: x-large;
+        width: 23%;
+        margin-left: 5%;
+    }
+    #para4{
+        font-size: larger;
+    }
+    /* for the footer box */
+    #box4{
+        width: 293%;
+        margin-left: -36%;
+        margin-top: 8%;
+        height: 851px;
+    }
+    #oa{
+        margin-top: -8.5%;
+        margin-left: 43%;
+    }
+    #para6{
+        margin-left: 39%;
+    }
+    #oh{
+        margin-top: -7.1%;
+        margin-left: 73%;
+    }
+    .para7{
+        margin-left: 67%;
+    }
+    #service{
+        margin-top: -15%;
+        margin-left: 35%;
+    }
+    #para10{
+        margin-left: 32%;
+    }
+    .para11{
+        margin-left: 32%;
+    }
+    #Technology{
+        margin-top: -18.1%;
+        margin-bottom: 2%;
+        margin-left: 57%;
+    }
+    #para12{
+        margin-left: 56%;
+    }
+    .para13{
+        margin-left: 56%;
+    }
+    #wh{
+        margin-top: -18%;
+    }
+}

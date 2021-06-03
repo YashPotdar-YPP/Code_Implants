@@ -1,0 +1,422 @@
+
+/* for h6 tag */
+.H6 {
+    font-size: 100%;
+    display: inline-block;
+    margin-left: -10%;
+    margin-bottom: -20%;
+    margin-top: 19.7%;
+    border: 1px solid white;
+    background-color: white;
+    position: relative;
+    top: -188%;
+    height: 25%;
+}
+.H7{
+    font-size: 100%;
+    display: inline-block;
+    margin-left: 10%;
+    margin-bottom: -20%;
+    margin-top: 22.5%;
+    border: 1px solid white;
+    background-color: white;
+    position: relative;
+    top: -213%;
+}
+body{
+    margin: 79px;
+    margin-bottom: 0%;
+    padding: 0;
+    font-family: 'Heebo';
+}
+.wrap{
+    margin: 100%;
+}
+
+.active{
+    color: black;
+}
+#logo{
+    margin-top: -8%;
+    margin-left: -269%;
+    width: 52%;
+}
+nav{
+    position: fixed;
+    top: 10%;
+    left: 0%;
+    width: 100%;
+    height: 19%;
+    padding: 0% 10%;
+    box-sizing: border-box;
+    border-bottom: 1px solid #ccc;
+    background: #fff;
+    display: flex;
+    flex-direction: row;
+    margin-top: -5%;
+}
+nav div.logo{
+    height: 24%;
+    font-size: 24%;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+    text-align: center;
+}
+nav .mainmenu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-top: -8%;
+}
+nav .mainmenu li a{
+    line-height: 24%;
+    color: #000;
+    padding: 0px 9%;
+    text-decoration: none;
+    font-size: 105%;
+    font-weight: bold;
+    display: flex;
+    margin-top: 163%;
+    margin-left: 24%;
+    height: 10%;
+    display: inline-block;
+    border-bottom-width: medium;
+    position: relative;
+
+}
+nav .mainmenu li a:hover{
+    border-bottom: 2px solid #13BD7F;
+    border-bottom-width: medium;
+    padding-bottom: 1%;
+    color: #13BD7F;
+}
+nav .mainmenu .closebtn{
+    color: black;
+    margin-top: 26%;
+    display: none;
+}
+nav .Open_menu{
+    font-size: 2rem;
+    display: none;
+    margin: 20px;
+    cursor: pointer;
+}
+/* for making navigation options looking good*/
+#home{
+    margin-top: 343%;
+    height: 10%;
+    margin-left: -190%;
+    display: inline-block;
+    border-bottom-width: medium;
+    position: relative;
+}
+#aboutus{
+    margin-top: 209%;
+    margin-left: -62%;
+    height: 10%;
+    display: inline-block;
+    border-bottom-width: medium;
+    position: relative;
+
+}
+
+/* for the services navigation option dropdown */
+.dropdown{
+    white-space: nowrap;
+}
+.dropbtn {
+    color: black;
+    padding: 8px;
+    font-size: 16px;
+    border: none;
+    margin-top: 185%;
+    margin-left: -4%;
+    height: 0%;
+    display: inline-block;
+    border-bottom-width: medium;
+    position: relative;
+
+}
+  
+.dropdown {
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+}
+  
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+  
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+  
+.dropdown-content a:hover {
+      background-color: #ddd;
+}
+  
+.dropdown:hover .dropdown-content {
+      display: block;
+}
+.dropbtn:hover{
+        background-color: white;
+        border-bottom: 2px solid #13BD7F;
+        padding-bottom: 37%;
+        color: #13BD7F;
+        border-bottom-width: medium;
+}
+
+/* for the main image */
+#IMG1{
+    height: 549px;
+    display: block;
+    margin-left: -35%;
+    margin-right: auto;
+    margin-top: -87%;
+    width: 120%;
+    padding-left: 22%;
+    z-index: -1;
+    cursor: auto;
+}
+#fh{
+    color: #ddd;
+    font-size: xx-large;
+    margin-top: -19%;
+    padding-right: 54%;
+}
+.para{
+    padding: 2%;
+    margin: 0%;
+}
+.para1{
+    margin-top: 15%;
+    padding: 2%;
+}
+/* for the four box */
+#box{
+    display: flex;
+    flex-direction: row;
+    padding-right: 1%;
+}
+.slideshow-container{
+    display: none;
+}
+.uu{
+    margin: auto;
+}
+#firstbox{
+    box-sizing: border-box;
+    border: 0px solid black;
+    background-color: #c8c5c5;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+    margin-right: 3%;
+}
+#IMG2{
+    display: flex;
+    margin: auto;
+    height: 20%;
+    width: 29%;
+    justify-content: center;
+}
+/* second box */
+#secondbox{
+    box-sizing: border-box;
+    border: 0px solid black;
+    background-color: #c8c5c5;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    margin-right: 2%;
+}
+#IMG3{
+    display: flex;
+    margin: auto;
+    height: 20%;
+    width: 29%;
+    justify-content: center;
+}
+/* third box */
+
+#thirdbox{
+    box-sizing: border-box;
+    border: 0px solid black;
+    background-color: #c8c5c5;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    margin-right: 3%;
+    padding: 2%;
+}
+
+#IMG4{
+    display: flex;
+    margin: auto;
+    height: 20%;
+    width: 29%;
+    justify-content: center;
+}
+/* fourth box */
+#fourthbox{
+    box-sizing: border-box;
+    border: 0px solid black;
+    background-color: #c8c5c5;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    margin-right: 3%;
+    padding: 2%;
+}
+#IMG5{
+    display: flex;
+    margin: auto;
+    height: 20%;
+    width: 29%;
+    justify-content: center;
+}
+
+/* for the footer box section  */
+#box2{
+    background-color: #0F2B5B;
+    box-sizing: border-box;
+    margin-left: -7%;
+    margin-top: 11%;
+    height: 770%;
+    width: 114%;
+    display: flex;
+    flex-direction: column;
+    color: #ddd;
+}
+#qc{
+    font-size: large;
+    margin-left: 8%;
+    margin-top: 5%;
+}
+.para2{
+    margin-left: 4%;
+    padding: 0%;
+    margin-bottom: 0%;
+}
+/* for our address section */
+#oa{
+    font-size: large;
+    margin-left: 48%;
+    margin-top: -9%;
+}
+#para3{
+    font-size: large;
+    margin-left: 46%;
+    margin-top: 1%;
+}
+/* for opening hours section */
+#oh{
+    font-size: large;
+    margin-left: 75%;
+    margin-top: -7%;
+}
+.para4{
+    font-size: large;
+    margin-left: 73%;
+    margin-top: 1%;
+    margin-bottom: 0%;
+}
+/*for the bottom border  */
+#fornothing{
+    border-bottom: 1px solid white;
+    padding-top: 6%;
+}
+
+/* after bottom border blog */
+/* for some information */
+#img3{
+    margin-left: 4%;
+    margin-top: 4%;
+    width: 17%;
+    color: #ddd;
+}
+#para5{
+    margin-left: 3%;
+    margin-top: -5%;
+    color: #ddd;
+    margin-bottom: 0%;
+}
+.para6{
+    margin-left: 3%;
+    color: #ddd;
+    margin-bottom: 0%;
+}
+/* for service blog */
+#service{
+    margin-left: 32%;
+    margin-top: -16%;
+    color: #ddd;
+    font-size: large;
+}
+
+#para7{
+    margin-left: 30%;
+    margin-top: 2%;
+    color: #ddd;
+    margin-bottom: 0%;
+}
+.para8{
+    margin-left: 30%;
+    color: #ddd;
+    margin-bottom: 0%;
+}
+/* for Technology service blog */
+#Technology{
+    margin-left: 55%;
+    margin-top: -18%;
+    color: #ddd;
+    font-size: large;
+}
+
+#para9{
+    margin-left: 54%;
+    margin-top: 1%;
+    color: #ddd;
+    margin-bottom: 0%
+}
+.para10{
+    margin-left: 54%;
+    color: #ddd;
+    margin-bottom: 0%;
+}
+/* for the hiring blog */
+#wh{
+    margin-left: 75%;
+    margin-top: -18%;
+    color: #ddd;
+    font-size: large;
+}
+#para11{
+    margin-left: 74%;
+    margin-top: 1%;
+    color: #ddd;
+    margin-bottom: 0%
+}
+.para12{
+    margin-left: 74%;
+    margin-top: 1%;
+    color: #ddd;
+    margin-bottom: 0%
+}
+/* for the last line  */
+#footer{
+    color: #8a8484;
+    margin-left: 31%;
+    margin-top: 17%;
+}

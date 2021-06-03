@@ -1,0 +1,507 @@
+#email{
+    display: inline-block;
+    height: 38px;
+    width: 15%;
+    padding-left: 2%;
+    margin-top: 0%;
+    margin-left: -27%;
+    color: white;
+}
+/* for h6 tag */
+.H6{
+    font-size: 100%;
+    display: inline-block;
+    margin-left: -10%;
+    margin-bottom: -20%;
+    margin-top: 27%;
+    border: 1px solid white;
+    background-color: white;
+    position: relative;
+    top: -196%;
+    height: 25%;
+    width: 77%;
+}
+.H7{
+    font-size: 100%;
+    display: inline-block;
+    margin-left: 9%;
+    margin-bottom: -20%;
+    margin-top: 33.7%;
+    border: 1px solid white;
+    background-color: white;
+    position: relative;
+    top: -246%;
+    height: 25%;
+    padding-right: 0%;
+}
+body{
+    margin: 79px;
+    margin-bottom: 0%;
+    padding: 0;
+    font-family: 'Heebo';
+}
+
+
+.active{
+    color: black;
+}
+#logo{
+    margin-top: -2%;
+    margin-left: -332%;
+    width: 68%;
+}
+
+nav{
+    position: fixed;
+    top: 10%;
+    left: 0%;
+    width: 100%;
+    height: 22%;
+    padding: 0% 10%;
+    box-sizing: border-box;
+    border-bottom: 1px solid #ccc;
+    background: #fff;
+    display: flex;
+    flex-direction: row;
+    margin-top: -5%;
+}
+nav div.logo{
+    height: 24%;
+    font-size: 24%;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+    text-align: center;
+}
+nav .mainmenu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-top: -8%;
+}
+nav .mainmenu li a{
+    line-height: 24%;
+    color: black;
+    padding: 0px 9%;
+    text-decoration: none;
+    font-size: 105%;
+    font-weight: bold;
+    display: flex;
+    height: 29%;
+    margin-top: 167%;
+    margin-left: 24%;
+    height: 10%;
+    display: inline-block;
+    position: relative;
+    border-bottom-width: medium;
+}
+nav .mainmenu li a:hover{
+    border-bottom: 2px solid #13BD7F;
+    border-bottom-width: medium;
+    padding-bottom: 1%;
+    color: #13BD7F;
+}
+nav .mainmenu .closebtn {
+    color: black;
+    margin-top: 26%;
+    display: none;
+}
+nav .Open_menu {
+    font-size: 2rem;
+    display: none;
+    margin: 20px;
+    cursor: pointer;
+}
+/* for making navigation options looking good*/
+#home{
+    margin-top: 350%;
+    height: 10%;
+    margin-left: -190%;
+    display: inline-block;
+    position: relative;
+    border-bottom-width: medium;
+}
+#aboutus{
+    margin-top: 213%;
+    margin-left: -62%;
+    height: 10%;
+    position: relative;
+    display: inline-block;
+    border-bottom-width: medium;
+}
+
+/* for the services navigation option dropdown */
+.dropdown{
+    white-space: nowrap;
+}
+.dropbtn {
+    color: black;
+    position: relative;
+    padding: 8px;
+    font-size: 16px;
+    border: none;
+    margin-top: 190%;
+    margin-left: -4%;
+    height: 0%;
+    display: inline-block;
+    border-bottom-width: medium;
+}
+  
+.dropdown {
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+}
+  
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+  
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+  
+.dropdown-content a:hover {
+      background-color: #ddd;
+}
+  
+.dropdown:hover .dropdown-content {
+      display: block;
+}
+.dropbtn:hover{
+        background-color: white;
+        border-bottom: 2px solid #13BD7F;
+        padding-bottom: 37%;
+        color: #13BD7F;
+        border-bottom-width: medium;
+}
+/* for the main img */
+#IMG1{
+    height: 549px;
+    display: block;
+    margin-left: -35%;
+    margin-right: auto;
+    margin-top: 13%;
+    width: 120%;
+    padding-left: 22%;
+    z-index: -1;
+    cursor: auto;
+}
+/* for the hole input box */
+#firstbox{
+    display: flex;
+    flex-direction: column;
+}
+/* for the first headding */
+#fh{
+    margin-top: 15%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+}
+/* for the name input box */
+#ne{
+    margin-top: -5.5%;
+    margin-left: 10%;
+    font-weight: bold;
+}
+#name{
+    display: inline-block;
+    height: 38px;
+    width: 15%;
+    padding-left: 2%;
+    border: 1px solid #C6BFBF;
+    margin-top: -2%;
+    margin-left: 10%;
+}
+
+/* for the email input box */
+#el{
+    margin-top: -5.5%;
+    margin-left: 40%;
+    font-weight: bold;
+}
+.email{
+    display: inline-block;
+    height: 38px;
+    width: 15%;
+    padding-left: 2%;
+    border: 1px solid #C6BFBF;
+    margin-top: -2%;
+    margin-left: 40%;
+}
+/* for the phone input box */
+#pe{
+    margin-left: 10%;
+    margin-top: 8%;
+    font-weight: bold;
+}
+#phone{
+    display: inline-block;
+    height: 38px;
+    width: 15%;
+    padding-left: 2%;
+    border: 1px solid #C6BFBF;
+    margin-top: -2%;
+    margin-left: 10%;
+}
+/* for the website box */
+#we{
+    margin-top: -5.5%;
+    margin-left: 40%;
+    font-weight: bold;
+}
+#website{
+    display: inline-block;
+    height: 38px;
+    width: 15%;
+    padding-left: 2%;
+    border: 1px solid #C6BFBF;
+    margin-top: -2%;
+    margin-left: 40%;
+}
+/* for the textarea box */
+#tx{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+#textbox{
+    width: 47%;
+    margin-left: 10%;
+    padding-top: 3%;
+    padding-left: 2%;
+    font-weight: bold;
+}
+
+/* for the submit button  */
+#submit{
+    padding-bottom: 0%;
+    display: inline-block;
+    color: white;
+    background-color: #0F2B5B;
+    border: 1px solid #0F2B5B;
+    color: white;
+    margin-top: 5%;
+    margin-left: 10%;
+    width: 49.5%;
+    height: 50px;
+}
+#submit:hover{
+    background-color: #13BD7F;
+    transition: background-color 0.5s;
+}
+/* for the second green box */
+#secondbox{
+    margin-left: 64%;
+    margin-top: -71%;
+    background-color: #13BD7F;
+    /* height: 100%; */
+    width: 37%;
+    text-align: center;
+    padding: 1%;
+    padding-top: 6%;
+}
+#ol{
+    font-size: 100%;
+    padding: 10%;
+    padding-top: 21%;
+    padding-bottom: 1%;
+    color: white;
+    font-weight: bold;
+}
+.para{
+    color: white;
+    font-size: 80%;
+    padding: 14%;
+    padding-top: 0%;
+}
+/* for the second blog */
+#qc{
+    font-size: 100%;
+    padding: 10%;
+    padding-bottom: 1%;
+    padding-right: 15%;
+    color: white;
+    font-weight: bold;
+}
+/* for the third blog */
+#oh1{
+    font-size: 100%;
+    font-weight: bold;
+    padding-left: 3%;
+    padding-top: -7%;
+    color: white;
+}
+#para1{
+    font-size: 80%;
+    padding: 26%;
+    padding-top: 0%;
+    color: white;
+}
+#acr{
+    box-sizing: border-box;
+    border: 1px solid white;
+    text-decoration: none;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 76%;
+    color: white;
+    margin-bottom: 5%;
+    display: inline-block;
+    font-size: 80%;
+}
+#arrow{
+    font-size: 200%;
+    padding-left: 10%;
+}
+/* for the last and footer box */
+#lastblog{
+    background-color: #0F2B5B;
+    box-sizing: border-box;
+    margin-left: -7%;
+    height: 770%;
+    width: 114%;
+    display: flex;
+    flex-direction: column;
+    color: #ddd;
+    margin-top: 28%;
+}
+#qc1{
+    font-size: large;
+    margin-left: 8%;
+    margin-top: 5%;
+}
+.para5{
+    margin-left: 4%;
+    padding: 0%;
+    margin-bottom: 0%;
+}
+/* for our address section */
+#oa{
+    font-size: large;
+    margin-left: 48%;
+    margin-top: -9%;
+}
+#para6{
+    font-size: large;
+    margin-left: 46%;
+    margin-top: 1%;
+}
+/* for opening hours section */
+#oh{
+    font-size: large;
+    margin-left: 75%;
+    margin-top: -7%;
+}
+.para7{
+    font-size: large;
+    margin-left: 73%;
+    margin-top: 1%;
+    margin-bottom: 0%;
+}
+/*for the bottom border  */
+#fornothing{
+    border-bottom: 1px solid white;
+    padding-top: 6%;
+}
+
+/* after bottom border blog */
+/* for some information */
+#img3{
+    margin-left: 4%;
+    margin-top: 4%;
+    width: 17%;
+    color: #ddd;
+}
+#para8{
+    margin-left: 3%;
+    margin-top: -5%;
+    float: left;
+    color: #ddd;
+    margin-bottom: 0%;
+}
+.para9{
+    margin-left: 3%;
+    float: left;
+    color: #ddd;
+    margin-bottom: 0%;
+}
+/* for service blog */
+#service{
+    margin-left: 32%;
+    margin-top: -16%;
+    float: left;
+    color: #ddd;
+    font-size: large;
+}
+
+#para10{
+    margin-left: 30%;
+    margin-top: 2%;
+    float: left;
+    color: #ddd;
+    margin-bottom: 0%;
+}
+.para11{
+    margin-left: 30%;
+    float: left;
+    color: #ddd;
+    margin-bottom: 0%;
+}
+/* for Technology service blog */
+#Technology{
+    margin-left: 55%;
+    margin-top: -18%;
+    float: left;
+    color: #ddd;
+    font-size: large;
+}
+
+#para12{
+    margin-left: 54%;
+    margin-top: 1%;
+    float: left;
+    color: #ddd;
+    margin-bottom: 0%
+}
+.para13{
+    margin-left: 54%;
+    float: left;
+    color: #ddd;
+    margin-bottom: 0%;
+}
+/* for the hiring blog */
+#wh{
+    margin-left: 75%;
+    margin-top: -18%;
+    float: left;
+    color: #ddd;
+    font-size: large;
+}
+#para14{
+    margin-left: 74%;
+    margin-top: 1%;
+    float: left;
+    color: #ddd;
+    margin-bottom: 0%
+}
+.para15{
+    margin-left: 74%;
+    margin-top: 1%;
+    float: left;
+    color: #ddd;
+    margin-bottom: 0%
+}
+/* for the last line  */
+#footer{
+    color: #8a8484;
+    margin-left: 31%;
+    margin-top: 17%;
+}
