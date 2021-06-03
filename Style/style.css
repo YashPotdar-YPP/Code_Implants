@@ -622,7 +622,7 @@ color: white;
     width: 305%;
     margin-left: -198%;
     height: 743px;
-    margin-top: 11%;
+    margin-top: 24%;
 }
 #Na{
     padding-top: 4%;
@@ -941,5 +941,6 @@ color: white;
 #ft{
     color: #8a8484;
     margin-left: 74%;
-    margin-top: 6%;
+    margin-top: -4%;
+    margin-bottom: 3%;
 }
