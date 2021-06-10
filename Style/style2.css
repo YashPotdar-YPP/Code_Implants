@@ -385,6 +385,9 @@
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
+    html{
+        overflow-x: hidden;
+    }
     *{
         font-family: 'Heebo';
         margin: 0%;
