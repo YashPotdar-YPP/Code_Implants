@@ -706,18 +706,16 @@
     /* for the quickcontact section */
     .HH3 {
         margin-left: 5%;
-        margin-top: 5%;
+        margin-top: -19%;
         font-size: 127%;
         width: 50%;
-        position: relative;
-        top: -7.5%;
     }
     #P1 {
-        margin-left: 6%;
+        margin-left: 5%;
         font-size: 85%;
-        margin-top: -8.6%;
+        margin-top: -5%;
         width: 45%;
-        color: white;
+        color: white
     }
     .P1 {
         margin-left: 5%;
@@ -777,61 +775,61 @@
         font-size: 85%;
         margin-left: -33%;
         margin-top: 24%;
-        width: 45%;
+        width: 50%;
     }
     #P4 {
         font-size: 85%;
         margin-left: -59%;
         margin-top: 0%;
-        width: 36%;
+        width: 42%;
     }
     .P4 {
         font-size: 85%;
-        margin-left: -114%;
-        margin-top: 41%;
+        margin-left: -106%;
+        margin-top: 11%;
         width: 42%;
     }
     .P44 {
         font-size: 85%;
-        margin-left: -114%;
-        margin-top: 50%;
+        margin-left: -106%;
+        margin-top: 21%;
         width: 42%;
     }
     /* for the service section */
     #HH7 {
-        margin-left: 62%;
-        margin-top: -21%;
+        margin-left: 60%;
+        margin-top: -34%;
         font-size: 127%;
         width: 38%;
     }
     .P6 {
         margin-top: -21.3%;
         width: 30%;
-        margin-left: 62%;
+        margin-left: 60%;
         font-size: 85%;
     }
     #P6 {
         margin-top: -10.3%;
         width: 35%;
-        margin-left: 62%;
+        margin-left: 60%;
         font-size: 85%;
     }
     #P66 {
         margin-top: 0%;
         width: 35%;
-        margin-left: 62%;
+        margin-left: 60%;
         font-size: 85%;
     }
     #P67 {
         margin-top: -0.7%;
         width: 24%;
-        margin-left: 62%;
+        margin-left: 60%;
         font-size: 85%;
     }
     #P68 {
         margin-top: 0%;
         width: 37%;
-        margin-left: 62%;
+        margin-left: 60%;
         font-size: 85%;
     }
     /* for the technology box */
@@ -842,17 +840,17 @@
     }
     .P8 {
         margin-top: 18%;
-        margin-left: -28%;
+        margin-left: -26%;
         font-size: 85%;
     }
     #P8 {
         margin-top: 23%;
-        margin-left: -28%;
+        margin-left: -26%;
         font-size: 85%;
     }
     .P81 {
         margin-top: 28%;
-        margin-left: -28%;
+        margin-left: -26%;
         font-size: 85%;
     }
     .P82 {
@@ -867,25 +865,25 @@
     }
     /* for the we're hiring section */
     #HH9 {
-        margin-left: 62%;
+        margin-left: 60%;
         margin-top: -32.4%;
         font-size: 127%;
     }
     .P9 {
         margin-top: -20%;
-        margin-left: 62%;
+        margin-left: 60%;
         width: 36%;
         font-size: 85%;
     }
     #P9 {
         margin-top: -10%;
-        margin-left: 62%;
+        margin-left: 60%;
         width: 36%;
         font-size: 85%;
     }
     /* for the footer box */
     #ft {
-        margin-left: 1%;
+        margin-left: -5%;
         padding-top: 122%;
         font-size: 66%;
         text-align: center;
