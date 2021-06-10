@@ -1,8 +1,7 @@
-@media (min-width: 320px) and (max-width: 480px) {
+@media only screen and ( max-width:480px){
     body{
         margin: 4%;
         margin-bottom: 0%;
-        font-family: 'Heebo';
     }
     nav{
         height: 16%;
@@ -142,10 +141,10 @@
         height: 28%;
     }
     /* for the footer box*/
-    /* .para2{
+    .para2{
         font-size: 72%;
     }
-    /* for the our address section 
+    /* for the our address section */
     #oa{
         margin-left: 65%;
         margin-top: -19.5%;
@@ -155,7 +154,7 @@
         margin-top: 3%;
         font-size: 72%;
     }
-    /* for the opening hour section  
+    /* for the opening hour section  */
     #oh{
         margin-left: 41%;
         margin-top: 13%;
@@ -164,7 +163,7 @@
         font-size: 72%;
         margin-left: 38%;
     }
-    /* for the first image section 
+    /* for the first image section */
     #img3{
         width: 33%;
     }
@@ -174,7 +173,7 @@
     .para6{
         font-size: 72%;
     }
-    /* for the service section 
+    /* for the service section */
     #service{
         margin-top: -35%;
         margin-left: 55%;
@@ -189,7 +188,7 @@
         font-size: 72%;
         margin-top: 2%;
     }
-    /* for the technology section 
+    /* for the technology section */
     #Technology{
         margin-top: 7%;
         margin-left: 9%;
@@ -204,7 +203,7 @@
         margin-left: 9%;
         font-size: 72%;
     }
-    /* for the we're hiring section  
+    /* for the we're hiring section  */
     #wh{
         margin-top: -36%;
         margin-left: 55%;
@@ -218,150 +217,10 @@
         margin-left: 48%;
         font-size: 71%;
     }
-    /* for footer line  
+    /* for footer line  */
     #footer{
         margin-top: 28%;
         margin-left: 17%;
         font-size: 61%;
-    } */
-    #box2 {
-        margin-top: 13%;
-        width: 108%;
-        margin-left: -4%;
-        height: 844px;
-    }
-    /* for the quickcontact section */
-    #qc {
-        margin-left: 5%;
-        margin-top: 7%;
-        font-size: 127%;
-        width: 50%
-    }
-    .para2{
-        margin-left: 5%;
-        font-size: 85%;
-        margin-top: 0%;
-        width: 45%;
-        color: white;
-    }
-    /* for the address section */
-    #oa {
-        margin-left: 58%;
-        margin-top: -27.5%;
-        font-size: 127%;
-        width: 50%;
-    }
-    #para3{
-        margin-left: 58%;
-        color: white;
-        font-size: 85%;
-        margin-top: 0%;
-    }
-    /* for the opening hour section */
-    #oh{
-        margin-left: 32%;
-        margin-top: 16%;
-        font-size: 127%;
-    }
-    .para4{
-        margin-left: 32%;
-        margin-top: 0%;
-        font-size: 85%;
-        padding: 0%;
-        color: white;
-    }
-    /* for the line  */
-    #fornothing{
-        padding-top: 5%;   
-    }
-    /* for the image box section */
-    #img3{
-        margin-left: 1%;
-        margin-top: -7%;
-        width: 40%;
-    }
-    #para5{
-        font-size: 85%;
-        margin-left: 5%;
-        margin-top: -10%;
-        color: white;
-        width: 50%;
-    }
-    .para6{
-        font-size: 85%;
-        margin-left: 5%;
-        margin-top: 0%;
-        width: 34%;
-        color: white;
-    }
-    /* for the service section */
-    #service{
-        margin-left: 65%;
-        margin-top: -56%;
-        font-size: 127%;
-        width: 50%;
-        color: white;
-    }
-    #para7{
-        margin-top: 2%;
-        width: 50%;
-        margin-left: 62%;
-        margin-right: 0%;
-        font-size: 85%;
-        color: white;
-    }
-    .para8{
-        margin-top: 0.7%;
-        width: 35%;
-        margin-left: 62%;
-        font-size: 85%;        
-        color: white;
-    }
-   
-    /* for the technology box */
-    #Technology{
-        margin-top: 6%;
-        margin-left: 4%;
-        font-size: 127%;
-        color: white;
-    }
-    #para9{
-        margin-top: 2%;
-        margin-left: 4%;
-        font-size: 85%;
-        color: white;
-    }
-    .para10{
-        margin-top: 0%;
-        margin-left: 4.2%;
-        font-size: 85%;
-        color: white;
-    }
-    /* for the we're hiring section */
-    #wh{
-        margin-left: 62%;
-        margin-top: -39.8%;
-        font-size: 127%;
-        color: white;
-    }
-    #para11{
-        margin-top: 2%;
-        margin-left: 62%;
-        width: 36%;
-        font-size: 85%;
-        color: white;    
-    }
-    .para12{
-        margin-top: 0%;
-        margin-left: 62%;
-        width: 36%;
-        font-size: 85%;
-        color: white;
-    }
-    /* for the footer box */
-    #footer {
-        margin-left: 4%;
-        padding-top: 13%;
-        font-size: 66%;
     }
 }
