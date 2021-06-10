@@ -706,16 +706,18 @@
     /* for the quickcontact section */
     .HH3 {
         margin-left: 5%;
-        margin-top: -19%;
+        margin-top: 5%;
         font-size: 127%;
         width: 50%;
+        position: relative;
+        top: -7.5%;
     }
     #P1 {
-        margin-left: 5%;
+        margin-left: 6%;
         font-size: 85%;
-        margin-top: -5%;
+        margin-top: -8.6%;
         width: 45%;
-        color: white
+        color: white;
     }
     .P1 {
         margin-left: 5%;
@@ -775,13 +777,13 @@
         font-size: 85%;
         margin-left: -33%;
         margin-top: 24%;
-        width: 50%;
+        width: 45%;
     }
     #P4 {
         font-size: 85%;
         margin-left: -59%;
         margin-top: 0%;
-        width: 42%;
+        width: 36%;
     }
     .P4 {
         font-size: 85%;
@@ -798,7 +800,7 @@
     /* for the service section */
     #HH7 {
         margin-left: 62%;
-        margin-top: -34%;
+        margin-top: -21%;
         font-size: 127%;
         width: 38%;
     }
