@@ -177,7 +177,7 @@
         margin-top: 238%;
         width: 80%;
         margin-left: -29%;
-        height: 997px;
+        height: 844px;
     }
     /* for the quickcontact section */
     #qc {
@@ -227,7 +227,7 @@
     #img3{
         margin-left: 1%;
         margin-top: -7%;
-        width: 37%;
+        width: 40%;
     }
     #para8{
         font-size: 85%;
@@ -245,22 +245,26 @@
     }
     /* for the service section */
     #service{
-        margin-left: 70%;
-        margin-top: -59%;
+        margin-left: 65%;
+        margin-top: -56%;
         font-size: 127%;
         width: 50%;
+        color: white;
     }
     #para10{
-        margin-top: -46.3%;
+        margin-top: 2%;
         width: 50%;
         margin-left: 62%;
+        margin-right: 0%;
         font-size: 85%;
+        color: white;
     }
-    .para11{
-        margin-top: -35.3%;
-        width: 38%;
+    .para11 {
+        margin-top: 0.7%;
+        width: 35%;
         margin-left: 62%;
-        font-size: 85%;
+        font-size: 85%;        
+        color: white;
     }
    
     /* for the technology box */
@@ -268,40 +272,45 @@
         margin-top: 6%;
         margin-left: 4%;
         font-size: 127%;
+        color: white;
     }
     #para12{
-        margin-top: 19%;
-        margin-left: -32%;
+        margin-top: 2%;
+        margin-left: 4%;
         font-size: 85%;
+        color: white;
     }
     .para13{
-        margin-top: 24%;
-        margin-left: -31.8%;
+        margin-top: 0%;
+        margin-left: 4.2%;
         font-size: 85%;
-    
+        color: white;
     }
     /* for the we're hiring section */
     #wh{
         margin-left: 62%;
-        margin-top: -33.2%;
+        margin-top: -39.8%;
         font-size: 127%;
+        color: white;
     }
     #para14{
-        margin-top: -21%;
-        margin-left: 61%;
+        margin-top: 2%;
+        margin-left: 62%;
         width: 36%;
         font-size: 85%;
+        color: white;    
     }
     .para15{
-        margin-top: -10%;
-        margin-left: 61%;
+        margin-top: 0%;
+        margin-left: 62%;
         width: 36%;
         font-size: 85%;
+        color: white;
     }
     /* for the footer box */
     #footer {
-        margin-left: 1%;
-        padding-top: 139%;
+        margin-left: 4%;
+        padding-top: 13%;
         font-size: 66%;
     }
 }
