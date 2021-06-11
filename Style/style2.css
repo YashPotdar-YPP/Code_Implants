@@ -889,68 +889,6 @@
   }
 }
 
-@media only screen and (max-width: 320px) {
-  .arrow {
-    width: 70%;
-  }
-  #arr {
-    margin-top: -49%;
-  }
-  #arr2 {
-    margin-top: -49%;
-  }
-  #box3 {
-    margin-top: 894%;
-    height: 51rem;
-  }
-  #divma {
-    margin-top: 135%;
-  }
-  #divwd {
-    margin-top: 50%;
-  }
-  #box4 {
-    height: 468px;
-  }
-  #p1 {
-    width: 34%;
-    margin-left: 58%;
-  }
-  #HH8 {
-    margin-left: 6%;
-  }
-  .P8 {
-    margin-left: -31%;
-  }
-  #P8 {
-    margin-left: -31%;
-  }
-  .P81 {
-    margin-left: -31%;
-  }
-  .P82 {
-    margin-left: -38%;
-  }
-  .P83 {
-    margin-left: -38%;
-  }
-  #HH9 {
-    margin-left: 54%;
-  }
-  .P9 {
-    width: 35%;
-    margin-left: 55%;
-  }
-  #P9 {
-    margin-top: -8%;
-    margin-left: 55%;
-  }
-  #ft {
-    width: 71%;
-    padding-top: 131%;
-    margin-left: 10%;
-  }
-}
 @media only screen and (max-width: 425px) {
   /* for the purple box */
   #box3 {
@@ -1005,19 +943,19 @@
     margin-left: 60%;
     margin-top: -21%;
   }
-  .P6{
+  .P6 {
     margin-top: -10%;
     width: 30%;
     margin-left: 60%;
   }
-  #P6{
-        margin-top: -1.3%;
-        width: 31%;
+  #P6 {
+    margin-top: -1.3%;
+    width: 31%;
   }
-  #P66{
+  #P66 {
     width: 34%;
   }
-  #P68{
+  #P68 {
     width: 34%;
   }
   /* for the technology */
@@ -1025,7 +963,7 @@
     margin-top: 3%;
     margin-left: 8%;
   }
-  .P8{
+  .P8 {
     margin-top: 13%;
     margin-left: -24%;
   }
@@ -1041,26 +979,117 @@
     margin-top: 25%;
     margin-left: -28.5%;
   }
-  .P83{
-        margin-top: 29%;
-        margin-left: -28.9%;
+  .P83 {
+    margin-top: 29%;
+    margin-left: -28.9%;
   }
   /* for the we're section */
   #HH9 {
     margin-left: 60%;
     margin-top: -25.8%;
   }
-  .P9{
+  .P9 {
     margin-top: -16.5%;
     margin-left: 60%;
     width: 26%;
   }
-  #P9{
+  #P9 {
     margin-top: -7.5%;
     margin-left: 59.5%;
   }
   /* for the footer line */
-  #ft{
+  #ft {
     padding-top: 106%;
+  }
+}
+@media only screen and (max-width: 320px) {
+  /* for the image */
+  .arrow {
+    width: 70%;
+  }
+  /* for the image changing arrow */
+  #arr {
+    margin-top: -49%;
+  }
+  #arr2 {
+    margin-top: -49%;
+  }
+  /* for the purple box */
+  #box3 {
+    margin-top: 894%;
+    height: 51rem;
+  }
+  #divma {
+    margin-top: 135%;
+  }
+  #divwd {
+    margin-top: 50%;
+  }
+  /* for the green box */
+  #box4 {
+    height: 468px;
+  }
+  /* for the footer box */
+  #box6 {
+    height: 805px;
+  }
+  /* for the quick contact section */
+
+  #p1 {
+    width: 34%;
+    margin-left: 58%;
+  }
+  /* for the image box section */
+  #P4 {
+    margin-top: 35%;
+  }
+  .P4 {
+    margin-top: 53%;
+  }
+  .P44 {
+    margin-top: 70%;
+  }
+  /* for the technology section */
+  #HH8 {
+    margin-left: 6%;
+    margin-top: 12%;
+  }
+  .P8 {
+    margin-left: -31%;
+    margin-top: 22%;
+  }
+  #P8 {
+    margin-left: -31%;
+    margin-top: 26%;
+  }
+  .P81 {
+    margin-left: -31%;
+    margin-top: 31%;
+  }
+  .P82 {
+    margin-left: -38%;
+    margin-top: 36%;
+  }
+  .P83 {
+    margin-left: -38%;
+    margin-top: 41%;
+  }
+  /* for the we're hiring section */
+  #HH9 {
+    margin-left: 54%;
+  }
+  .P9 {
+    width: 35%;
+    margin-left: 55%;
+  }
+  #P9 {
+    margin-top: -4%;
+    margin-left: 54.5%;
+  }
+  /* for the footer line  */
+  #ft {
+    width: 71%;
+    padding-top: 137%;
+    margin-left: 10%;
   }
 }
