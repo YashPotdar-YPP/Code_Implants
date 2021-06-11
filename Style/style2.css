@@ -589,7 +589,8 @@
   /* for the web app */
   #divwa {
     width: 64%;
-    position: absolute;
+    position: relative;
+    top: -3%;
     height: 23%;
     left: 19%;
     margin-left: 0%;
@@ -609,7 +610,8 @@
     margin-top: 41%;
     width: 64%;
     height: 31%;
-    position: absolute;
+    position: relative;
+    top: -20%;
     left: 19%;
     margin-left: 0%;
     margin-right: 0%;
@@ -619,7 +621,7 @@
   }
   /* for the mobile app */
   #divma {
-    margin-top: 114%;
+    margin-top: 129%;
     width: 64%;
     height: 15%;
     position: absolute;
@@ -890,6 +892,10 @@
 }
 
 @media only screen and (max-width: 425px) {
+  .arrow{
+    width: 68%;
+    margin-left: 2%;
+  }
   /* for the purple box */
   #box3 {
     height: 59rem;
@@ -1003,6 +1009,10 @@
   }
 }
 @media only screen and (max-width: 375px) {
+  .arrow{
+    width: 68%;
+    margin-left: 2%;
+  }
   #box3 {
     margin-top: 748%;
   }
@@ -1021,16 +1031,16 @@
     margin-left: -27%;
   }
   #P8{
-    margin-left: -29%;
+    margin-left: -27%;
   }
   .P81{
-    margin-left: -29%;
+    margin-left: -27%;
   }
   .P82{
-    margin-left: -35.5%;
+    margin-left: -32.4%;
   }
   .P83{
-    margin-left: -35.7%;
+    margin-left: -32.4%;
   }
   /* for the footer line */
   #ft{
@@ -1040,7 +1050,8 @@
 @media only screen and (max-width: 320px) {
   /* for the image */
   .arrow {
-    width: 70%;
+    width: 68%;
+    margin-left: 2%;
   }
   /* for the image changing arrow */
   #arr {
@@ -1055,7 +1066,7 @@
     height: 51rem;
   }
   #divma {
-    margin-top: 135%;
+    margin-top: 129%;
   }
   #divwd {
     margin-top: 50%;
