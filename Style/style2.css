@@ -1002,6 +1002,41 @@
     padding-top: 106%;
   }
 }
+@media only screen and (max-width: 375px) {
+  #box3 {
+    margin-top: 748%;
+  }
+  /* for the the image section */
+  #P4 {
+    margin-top: 34%;
+  }
+  .P4{
+    margin-top: 44%;
+  }
+  .P44{
+    margin-top: 54%;
+  }
+  /* for the technology section */
+  .P8{
+    margin-left: -27%;
+  }
+  #P8{
+    margin-left: -27%;
+  }
+  .P81{
+    margin-left: -27%;
+  }
+  .P82{
+    margin-left: -32%;
+  }
+  .P83{
+    margin-left: -32.7%;
+  }
+  /* for the footer line */
+  #ft{
+    padding-top: 116%;
+  }
+}
 @media only screen and (max-width: 320px) {
   /* for the image */
   .arrow {
