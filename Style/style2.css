@@ -1,891 +1,1066 @@
 /*big tablet to 1200px*/
 
-@media only screen and ( max-width:1200px) {
-    #IMG2 {
-        margin-top: 11%;
-        width: 100%;
-        margin-left: -6%;
-    }
-    .wrap {
-        padding: 0 2%;
-    }
-    #arr {
-        padding: 0 2%;
-    }
-    #arr2 {
-        padding: 0 2%;
-    }
-    #Box {
-        padding: 0 2%;
-        margin-top: 10%;
-    }
-    #nav {
-        float: none;
-        width: auto;
-    }
-    #box3 {
-        color: white;
-        background-image: url(https://www.tiqso.com/assets/images/backgrounds/7.jpg);
-        margin-top: 101%;
-        padding-bottom: 10%;
-        margin-left: -78px;
-        width: 113%;
-    }
+@media only screen and (max-width: 1200px) {
+  #IMG2 {
+    margin-top: 11%;
+    width: 100%;
+    margin-left: -6%;
+  }
+  .wrap {
+    padding: 0 2%;
+  }
+  #arr {
+    padding: 0 2%;
+  }
+  #arr2 {
+    padding: 0 2%;
+  }
+  #Box {
+    padding: 0 2%;
+    margin-top: 10%;
+  }
+  #nav {
+    float: none;
+    width: auto;
+  }
+  #box3 {
+    color: white;
+    background-image: url(https://www.tiqso.com/assets/images/backgrounds/7.jpg);
+    margin-top: 101%;
+    padding-bottom: 10%;
+    margin-left: -78px;
+    width: 113%;
+  }
 }
 
-@media only screen and ( max-width:1023px) {
-    nav {
-        margin-top: -6%;
-    }
-    .H6 {
-        margin-top: 34%;
-    }
-    .H7 {
-        margin-top: 55.5%;
-    }
-    #logo {
-        margin-top: -25%;
-        margin-left: -436%;
-        width: 190px;
-    }
-    #home {
-        margin-top: 306%;
-    }
-    #aboutus {
-        margin-top: 193%;
-    }
-    .dropbtn {
-        margin-top: 172%;
-    }
-    nav ul li a {
-        margin-top: 152%;
-    }
-    /* for the image section */
-    #IMG2 {
-        margin-top: -23%;
-    }
-    #arr {
-        margin-right: 2%;
-    }
-    #arr2 {
-        margin-left: 7%;
-    }
-    /* for the hover boxes  */
-    #Qat {
-        margin-top: 11%;
-    }
-    /* for the second blog where we tell how many language we know */
-    #box3 {
-        color: white;
-        background-image: url(https://www.tiqso.com/assets/images/backgrounds/7.jpg);
-        margin-top: 137%;
-        padding-bottom: 10%;
-        margin-left: -79px;
-        width: 119%;
-        height: 150%;
-    }
-    #divmd {
-        margin-top: -37%;
-        height: 74%;
-    }
-    #divwd {
-        margin-top: -49.5%;
-    }
-    #H63 {
-        padding-bottom: 6%;
-    }
-    #divma {
-        margin-top: -49.7%;
-        padding-bottom: 49.5%;
-    }
-    /* for the input box section  */
-    #box5 {
-        margin-top: -65.1%;
-        padding-bottom: 0.1%;
-    }
-    #La5 {
-        margin-top: 8.5%;
-    }
-    /* for the last blog  */
-    #box6 {
-        height: 593px;
-    }
+@media only screen and (max-width: 1023px) {
+  nav {
+    margin-top: -6%;
+  }
+  .H6 {
+    margin-top: 34%;
+  }
+  .H7 {
+    margin-top: 55.5%;
+  }
+  #logo {
+    margin-top: -25%;
+    margin-left: -436%;
+    width: 190px;
+  }
+  #home {
+    margin-top: 306%;
+  }
+  #aboutus {
+    margin-top: 193%;
+  }
+  .dropbtn {
+    margin-top: 172%;
+  }
+  nav ul li a {
+    margin-top: 152%;
+  }
+  /* for the image section */
+  #IMG2 {
+    margin-top: -23%;
+  }
+  #arr {
+    margin-right: 2%;
+  }
+  #arr2 {
+    margin-left: 7%;
+  }
+  /* for the hover boxes  */
+  #Qat {
+    margin-top: 11%;
+  }
+  /* for the second blog where we tell how many language we know */
+  #box3 {
+    color: white;
+    background-image: url(https://www.tiqso.com/assets/images/backgrounds/7.jpg);
+    margin-top: 137%;
+    padding-bottom: 10%;
+    margin-left: -79px;
+    width: 119%;
+    height: 150%;
+  }
+  #divmd {
+    margin-top: -37%;
+    height: 74%;
+  }
+  #divwd {
+    margin-top: -49.5%;
+  }
+  #H63 {
+    padding-bottom: 6%;
+  }
+  #divma {
+    margin-top: -49.7%;
+    padding-bottom: 49.5%;
+  }
+  /* for the input box section  */
+  #box5 {
+    margin-top: -65.1%;
+    padding-bottom: 0.1%;
+  }
+  #La5 {
+    margin-top: 8.5%;
+  }
+  /* for the last blog  */
+  #box6 {
+    height: 593px;
+  }
 }
 
-@media only screen and ( max-width:767px) {
-    nav {
-        margin-top: -12%;
-    }
-    .H6 {
-        margin-top: 50%;
-    }
-    .H7 {
-        margin-top: 61.5%;
-    }
-    #logo {
-        width: 181px;
-    }
-    #home {
-        margin-top: 276%;
-        margin-left: -500%;
-    }
-    #aboutus {
-        margin-top: 172%;
-        margin-left: -279%;
-    }
-    .dropbtn {
-        margin-top: 152%;
-        margin-left: -239%;
-    }
-    nav ul li a {
-        margin-top: 136%;
-        margin-left: -188%;
-    }
-    /* for the image section */
-    #IMG2 {
-        margin-top: -15%;
-        width: 100%;
-    }
-    /* for the second blog where we tell how many language we know */
-    #box3 {
-        color: white;
-        background-image: url(https://www.tiqso.com/assets/images/backgrounds/7.jpg);
-        margin-top: 207%;
-        padding-bottom: 10%;
-        margin-left: -79px;
-        width: 127%;
-        height: 150%;
-    }
-    #Qat {
-        margin-top: 20%;
-    }
-    #divmd {
-        margin-top: -37%;
-        height: 74%;
-    }
-    #divwd {
-        margin-top: -66.5%;
-    }
-    #H63 {
-        padding-bottom: 12.6%;
-    }
-    #divma {
-        margin-top: -66.5%;
-    }
-    /* for the green box and white box  */
-    #box4 {
-        margin-left: 4%;
-    }
-    #box5 {
-        width: 73%;
-        margin-top: -91.1%;
-        margin-left: 39%;
-    }
-    /* for the input box  */
-    #Na {
-        margin-left: -42%;
-        margin-top: 16.5%;
-        width: 68%;
-    }
-    #La {
-        margin-left: -41%;
-    }
-    /* for the email input box */
-    #Ea {
-        margin-left: 36%;
-        margin-top: -5.1%;
-        width: 68%;
-    }
-    #La2 {
-        margin-left: 10%;
-    }
-    /* for the select box  */
-    #myselect {
-        margin-left: -42%;
-        margin-top: 20%;
-        width: 70%;
-    }
-    #La3 {
-        margin-left: -148%;
-    }
-    /* for the phone section */
-    #phone {
-        margin-top: -16.5%;
-    }
-    #La4 {
-        margin-left: 3%;
-        margin-top: 14%;
-    }
-    /* for the textarea */
-    #txt {
-        margin-left: -42%;
-        width: 145%;
-    }
-    #La5 {
-        width: 150%;
-        margin-left: -42%;
-        margin-top: 31.2%;
-    }
-    #box6 {
-        width: 311%;
-        height: 1%;
-    }
-    /* for the contact section */
-    .HH3 {
-        margin-left: -40%;
-        margin-top: 48.5px;
-        font-size: 125%;
-    }
-    #P1 {
-        margin-left: -42%;
-        margin-top: 4.5%;
-        font-size: small;
-    }
-    .P1 {
-        margin-left: -42%;
-        margin-top: 6.5%;
-        font-size: small;
-    }
-    /* for the address section */
-    #HH4 {
-        margin-top: -19%;
-        margin-left: 77%;
-        font-size: 125%;
-    }
-    #p1 {
-        margin-top: -17.1%;
-        margin-left: 77%;
-        font-size: small;
-    }
-    /* for the opening section */
-    #HH5 {
-        margin-left: 87%;
-        font-size: 125%;
-    }
-    .P2 {
-        margin-left: 87%;
-        padding-top: 1%;
-        font-size: small;
-    }
-    #P2 {
-        margin-left: 87%;
-        padding-top: 2%;
-        font-size: small;
-    }
-    /* for the about code implants */
-    #Img10 {
-        margin-left: 60%;
-        margin-top: -10%;
-        width: 7%;
-    }
-    #P3 {
-        margin-top: -5%;
-        margin-left: 60%;
-        font-size: small;
-    }
-    #P4 {
-        margin-top: -4%;
-        margin-left: -4%;
-        font-size: small;
-    }
-    .P4 {
-        margin-top: -3%;
-        margin-left: -4%;
-        font-size: small;
-    }
-    .P44 {
-        margin-top: -2%;
-        margin-left: -4%;
-        font-size: small;
-    }
-    /* for the service section */
-    #HH7 {
-        margin-left: 74%;
-        margin-top: -7%;
-        font-size: 125%;
-    }
-    .P6 {
-        margin-top: -5%;
-        margin-left: 73%;
-        font-size: small;
-    }
-    #P6 {
-        margin-top: -4%;
-        margin-left: 73%;
-        font-size: small;
-    }
-    #P66 {
-        margin-top: -3%;
-        margin-left: 73%;
-        font-size: small;
-    }
-    #P67 {
-        margin-left: 73%;
-        margin-top: -2%;
-        font-size: small;
-    }
-    #P68 {
-        margin-top: -1%;
-        font-size: small;
-        margin-left: 73%;
-    }
-    /* for the technology section */
-    #HH8 {
-        margin-left: 83%;
-        margin-top: -7.5%;
-        font-size: 125%;
-    }
-    .P8 {
-        margin-top: -5.5%;
-        margin-left: 83%;
-        font-size: small;
-    }
-    #P8 {
-        margin-top: -4.5%;
-        margin-left: 83%;
-        font-size: small;
-    }
-    .P81 {
-        margin-top: -3.5%;
-        margin-left: 83%;
-        font-size: small;
-    }
-    .P82 {
-        margin-top: -2.5%;
-        margin-left: 83%;
-        font-size: small;
-    }
-    .P83 {
-        margin-top: -1.5%;
-        margin-left: 83%;
-        font-size: small;
-    }
-    /* for the we are hiring section */
-    #HH9 {
-        margin-left: 91%;
-        margin-top: -7.5%;
-        font-size: 125%;
-    }
-    .P9 {
-        margin-top: -5.5%;
-        margin-left: 91%;
-        font-size: small;
-    }
-    #P9 {
-        margin-top: -4.5%;
-        margin-left: 91%;
-        font-size: small;
-    }
-    /* for the footer line */
-    #ft {
-        margin-left: 68%;
-        padding-top: 10%;
-        font-size: small;
-    }
+@media only screen and (max-width: 767px) {
+  nav {
+    margin-top: -12%;
+  }
+  .H6 {
+    margin-top: 50%;
+  }
+  .H7 {
+    margin-top: 61.5%;
+  }
+  #logo {
+    width: 181px;
+  }
+  #home {
+    margin-top: 276%;
+    margin-left: -500%;
+  }
+  #aboutus {
+    margin-top: 172%;
+    margin-left: -279%;
+  }
+  .dropbtn {
+    margin-top: 152%;
+    margin-left: -239%;
+  }
+  nav ul li a {
+    margin-top: 136%;
+    margin-left: -188%;
+  }
+  /* for the image section */
+  #IMG2 {
+    margin-top: -15%;
+    width: 100%;
+  }
+  /* for the second blog where we tell how many language we know */
+  #box3 {
+    color: white;
+    background-image: url(https://www.tiqso.com/assets/images/backgrounds/7.jpg);
+    margin-top: 207%;
+    padding-bottom: 10%;
+    margin-left: -79px;
+    width: 127%;
+    height: 150%;
+  }
+  #Qat {
+    margin-top: 20%;
+  }
+  #divmd {
+    margin-top: -37%;
+    height: 74%;
+  }
+  #divwd {
+    margin-top: -66.5%;
+  }
+  #H63 {
+    padding-bottom: 12.6%;
+  }
+  #divma {
+    margin-top: -66.5%;
+  }
+  /* for the green box and white box  */
+  #box4 {
+    margin-left: 4%;
+  }
+  #box5 {
+    width: 73%;
+    margin-top: -91.1%;
+    margin-left: 39%;
+  }
+  /* for the input box  */
+  #Na {
+    margin-left: -42%;
+    margin-top: 16.5%;
+    width: 68%;
+  }
+  #La {
+    margin-left: -41%;
+  }
+  /* for the email input box */
+  #Ea {
+    margin-left: 36%;
+    margin-top: -5.1%;
+    width: 68%;
+  }
+  #La2 {
+    margin-left: 10%;
+  }
+  /* for the select box  */
+  #myselect {
+    margin-left: -42%;
+    margin-top: 20%;
+    width: 70%;
+  }
+  #La3 {
+    margin-left: -148%;
+  }
+  /* for the phone section */
+  #phone {
+    margin-top: -16.5%;
+  }
+  #La4 {
+    margin-left: 3%;
+    margin-top: 14%;
+  }
+  /* for the textarea */
+  #txt {
+    margin-left: -42%;
+    width: 145%;
+  }
+  #La5 {
+    width: 150%;
+    margin-left: -42%;
+    margin-top: 31.2%;
+  }
+  #box6 {
+    width: 311%;
+    height: 1%;
+  }
+  /* for the contact section */
+  .HH3 {
+    margin-left: -40%;
+    margin-top: 48.5px;
+    font-size: 125%;
+  }
+  #P1 {
+    margin-left: -42%;
+    margin-top: 4.5%;
+    font-size: small;
+  }
+  .P1 {
+    margin-left: -42%;
+    margin-top: 6.5%;
+    font-size: small;
+  }
+  /* for the address section */
+  #HH4 {
+    margin-top: -19%;
+    margin-left: 77%;
+    font-size: 125%;
+  }
+  #p1 {
+    margin-top: -17.1%;
+    margin-left: 77%;
+    font-size: small;
+  }
+  /* for the opening section */
+  #HH5 {
+    margin-left: 87%;
+    font-size: 125%;
+  }
+  .P2 {
+    margin-left: 87%;
+    padding-top: 1%;
+    font-size: small;
+  }
+  #P2 {
+    margin-left: 87%;
+    padding-top: 2%;
+    font-size: small;
+  }
+  /* for the about code implants */
+  #Img10 {
+    margin-left: 60%;
+    margin-top: -10%;
+    width: 7%;
+  }
+  #P3 {
+    margin-top: -5%;
+    margin-left: 60%;
+    font-size: small;
+  }
+  #P4 {
+    margin-top: -4%;
+    margin-left: -4%;
+    font-size: small;
+  }
+  .P4 {
+    margin-top: -3%;
+    margin-left: -4%;
+    font-size: small;
+  }
+  .P44 {
+    margin-top: -2%;
+    margin-left: -4%;
+    font-size: small;
+  }
+  /* for the service section */
+  #HH7 {
+    margin-left: 74%;
+    margin-top: -7%;
+    font-size: 125%;
+  }
+  .P6 {
+    margin-top: -5%;
+    margin-left: 73%;
+    font-size: small;
+  }
+  #P6 {
+    margin-top: -4%;
+    margin-left: 73%;
+    font-size: small;
+  }
+  #P66 {
+    margin-top: -3%;
+    margin-left: 73%;
+    font-size: small;
+  }
+  #P67 {
+    margin-left: 73%;
+    margin-top: -2%;
+    font-size: small;
+  }
+  #P68 {
+    margin-top: -1%;
+    font-size: small;
+    margin-left: 73%;
+  }
+  /* for the technology section */
+  #HH8 {
+    margin-left: 83%;
+    margin-top: -7.5%;
+    font-size: 125%;
+  }
+  .P8 {
+    margin-top: -5.5%;
+    margin-left: 83%;
+    font-size: small;
+  }
+  #P8 {
+    margin-top: -4.5%;
+    margin-left: 83%;
+    font-size: small;
+  }
+  .P81 {
+    margin-top: -3.5%;
+    margin-left: 83%;
+    font-size: small;
+  }
+  .P82 {
+    margin-top: -2.5%;
+    margin-left: 83%;
+    font-size: small;
+  }
+  .P83 {
+    margin-top: -1.5%;
+    margin-left: 83%;
+    font-size: small;
+  }
+  /* for the we are hiring section */
+  #HH9 {
+    margin-left: 91%;
+    margin-top: -7.5%;
+    font-size: 125%;
+  }
+  .P9 {
+    margin-top: -5.5%;
+    margin-left: 91%;
+    font-size: small;
+  }
+  #P9 {
+    margin-top: -4.5%;
+    margin-left: 91%;
+    font-size: small;
+  }
+  /* for the footer line */
+  #ft {
+    margin-left: 68%;
+    padding-top: 10%;
+    font-size: small;
+  }
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
-    html{
-        overflow-x: hidden;
-    }
-    *{
-        font-family: 'Heebo';
-        margin: 0%;
-        padding: 0%;
-    }
-    body {
-        margin: 4%;
-        margin-bottom: 0%;
-        overflow-x: hidden;
-    }
-    nav {
-        height: 0%;
-        width: 0%;
-        border: none;
-    }
-    nav .mainmenu {
-        height: 57vh;
-        position: fixed;
-        top: 0;
-        right: 0;
-        left: 0;
-        z-index: -1;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        background: #000;
-        color: #000;
-        transition: top 1s ease;
-        display: none;
-        width: 373px;    
-    }
-    nav .mainmenu .closebtn {
-        display: block;
-        position: absolute;
-        top: 58%;
-        right: 49%;
-        font-size: xx-large;
-    }
-    nav .Open_menu {
-        display: block;
-        margin-left: -12%;
-        margin-top: -30%;
-        position: absolute;
-        border: 1px solid black;
-        padding: 0% 10% 0% 9%;
-        border-radius: 14%;
-        background: #00000094;
-    }
-    nav .logo {
-        display: none;
-    }
-    .H6 {
-        margin-top: 36%;
-        height: 0%;
-        margin-left: 79%;
-        display: none;
-    }
-    .H7 {
-        margin-top: 44.6%;
-        margin-left: -120%;
-        background: none;
-        display: none;
-    }
-    #home {
-        margin-top: 72%;
-        margin-left: -27%;
-        font-size: 126%;
-        margin-bottom: 57%;
-        height: 22%;
-    }
-    #aboutus {
-        margin-top: -51%;
-        margin-left: -17%;
-        font-size: 126%;
-        height: 72%;
-    }
-    .dropbtn {
-        margin-top: 25%;
-        margin-left: -9%;
-        height: 30%;
-        margin-bottom: 26%;
-        font-size: 126%;
-    }
-    .dropbtn:hover {
-        padding-bottom: 0%;
-    }
-    nav .mainmenu li a {
-        margin-top: 6%;
-        margin-left: -15%;
-        height: 53%;
-        font-size: 126%;
-        color: #000;
-    }
-    /* for the image */
-    .arrow {
-        margin-top: 28%;
-        width: 74%;
-        margin-left: -1%;
-    }
-    #IMG2 {
-        margin-top: 23%;
-        width: 147%;
-        margin-left: -26%;
-    }
-    #arr {
-        margin-right: -37%;
-        margin-top: -31%;
-        width: 10%;
-    }
-    #arr2 {
-        margin-top: -31%;
-        width: 11%;
-    }
-    #Box {
-        width: 62%;
-        margin-left: 20.5%;
-        text-align: center;
-        font-size: 113%;
-    }
-    #P {
-        font-size: 96%;
-        width: 90%;
-        margin-left: 8%;
-        text-align: center;
-    }
-    /* for the hover box section */
-    .os {
-        margin-left: 46%;
-        font-size: 166%;
-    }
-    .os2 {
-        margin-left: 40%;
-        font-size: 166%;
-    }
-    .ds {
-        width: 85%;
-        font-size: 100%;
-        margin-left: 8%;
-    }
-    #des {
-        width: 29%;
-        padding-left: 36%;
-    }
-    .st {
-        font-size: 120%;
-    
-    }
-    /* for the software development */
-    .sds {
-        width: 85%;
-        font-size: 100%;
-        margin-left: 8%;
-    }
-    #sd {
-        width: 29%;
-    }
-    /* for the md section */
-    #md {
-        width: 85%;
-        font-size: 100%;
-        margin-left: 8%;
-    }
-    #mdi {
-        width: 29%;
-    }
-    /* for the qa testing */
-    #Qat {
-        width: 85%;
-        font-size: 100%;
-        margin-left: 8%;
-    }
-    #Qate{
-        width: 26%;
-    }
-    /* for the digital marketing */
-    #dms {
-        width: 85%;
-        font-size: 100%;
-        margin-left: 8%;
-    }
-    #dmsi{
-        width: 26%;
-    }
-    /* for the dedicated developers  */
-    #dd {
-        width: 85%;
-        font-size: 100%;
-        margin-left: 8%;
-    }
-    #ddi{
-        width: 26%;
-    }
-    /* for the technology we serve box */
-    #box3 {
-        margin-top: 751%;
-        width: 108%;
-        margin-left: -4%;
-        height: 55rem;
-    }
-    /* for the web app */
-    #divwa {
-        width: 64%;
-        position: absolute;
-        height: 23%;
-        left: 19%;
-        margin-left: 0%;
-        margin-right: 0%;
-    }
-    #img5{
-       margin-left: -12%;
-    }
-    #img6{
-        margin-left: -12%;
-    }
-    #img7{
-        margin-left: -12%;
-    }
-    /* for the second box */
-    #divwd {
-        margin-top: 41%;
-        width: 64%;
-        height: 31%;
-        position: absolute;
-        left: 19%;
-        margin-left: 0%;
-        margin-right: 0%;
-    }
-    .H63 {
-        padding-bottom: 23%;
-    }
-    /* for the mobile app */
-    #divma {
-        margin-top: 114%;
-        width: 64%;
-        height: 15%;
-        position: absolute;
-        left: 19%;
-        margin-left: 0%;
-        margin-right: 0%;
-    }
-    /* for the green box */
-    #box4 {
-        margin-left: 16%;
-        width: 78%;
-        height: 355px;
-    }
-    .gb {
-        font-size: larger;
-    }
-    /* for the white box  */
-    #box5 {
-        margin-top: -5%;
-        margin-left: 16%;
-        width: 78%;
-    }
-    #La {
-        margin-left: 1%;
-        font-size: larger;
-    }
-    #Na {
-        margin-left: -8%;
-        margin-top: 1%;
-        width: 88%;
-        height: 22px;
-    }
-    #La2 {
-        margin-left: 0%;
-        margin-top: 18%;
-        font-size: larger;
-    }
-    #Ea {
-        margin-left: -8%;
-        margin-top: 1%;
-        width: 88%;
-        height: 22px;
-    }
-    #La3 {
-        margin-left: 0%;
-        margin-top: 10%;
-        font-size: larger;
-    }
-    #myselect {
-        margin-left: -8%;
-        margin-top: 1%;
-        width: 91%;
-        height: 45px;
-    }
-    #La4 {
-        margin-left: 0%;
-        margin-top: 7%;
-        font-size: larger;
-    }
-    #phone {
-        margin-left: -8%;
-        margin-top: 1%;
-        width: 88%;
-        height: 22px;
-    }
-    #txt {
-        margin-left: -34%;
-        margin-top: 16%;
-        width: 133%;
-        height: 22px;
-    }
-    #La5 {
-        width: 141%;
-        margin-left: -37%;
-    }
-    /* for the footer box */
-    #box6 {
-        margin-top: 238%;
-        width: 113%;
-        margin-left: -4%;
-        height: 766px;
-    }
-    /* for the quickcontact section */
-    .HH3 {
-        margin-left: 5%;
-        margin-top: -19%;
-        font-size: 127%;
-        width: 50%;
-    }
-    #P1 {
-        margin-left: 5%;
-        font-size: 85%;
-        margin-top: -5%;
-        width: 45%;
-        color: white
-    }
-    .P1 {
-        margin-left: 5%;
-        font-size: 85%;
-        margin-top: -1%;
-        width: 45%;
-        color: white;
-    }
-    .PP1{
-        margin-left: 5%;
-        font-size: 85%;
-        margin-top: -14%;
-        width: 45%;
-        color: white;
-    }
-    /* for the address section */
-    #HH4 {
-        margin-left: 56%;
-        margin-top: -28.9%;
-        font-size: 127%;
-        width: 35%;
-    }
-    #p1 {
-        margin-left: 56%;
-        font-size: 85%;
-        margin-top: -16.6%;
-    }
-    /* for the opening hour section */
-    #HH5 {
-        margin-left: 32%;
-        margin-top: 7%;
-        font-size: 127%;
-    }
-    .P2 {
-        margin-left: 32%;
-        margin-top: 2%;
-        font-size: 85%;
-        padding: 0%;
-    }
-    #P2 {
-        margin-left: 32%;
-        margin-top: 0%;
-        font-size: 85%;
-        padding: 0%;
-    }
-    /* for the line  */
-    .n {
-        padding-top: 39%;    
-    }
-    /* for the image box section */
-    #Img10 {
-        margin-left: 1%;
-        margin-top: -3%;
-        width: 37%;
-    }
-    #P3 {
-        font-size: 85%;
-        margin-left: -33%;
-        margin-top: 24%;
-        width: 50%;
-    }
-    #P4 {
-        font-size: 85%;
-        margin-left: -59%;
-        margin-top: 0%;
-        width: 42%;
-    }
-    .P4 {
-        font-size: 85%;
-        margin-left: -106%;
-        margin-top: 11%;
-        width: 42%;
-    }
-    .P44 {
-        font-size: 85%;
-        margin-left: -106%;
-        margin-top: 21%;
-        width: 42%;
-    }
-    /* for the service section */
-    #HH7 {
-        margin-left: 60%;
-        margin-top: -34%;
-        font-size: 127%;
-        width: 38%;
-    }
-    .P6 {
-        margin-top: -21.3%;
-        width: 30%;
-        margin-left: 60%;
-        font-size: 85%;
-    }
-    #P6 {
-        margin-top: -10.3%;
-        width: 35%;
-        margin-left: 60%;
-        font-size: 85%;
-    }
-    #P66 {
-        margin-top: 0%;
-        width: 35%;
-        margin-left: 60%;
-        font-size: 85%;
-    }
-    #P67 {
-        margin-top: -0.7%;
-        width: 24%;
-        margin-left: 60%;
-        font-size: 85%;
-    }
-    #P68 {
-        margin-top: 0%;
-        width: 37%;
-        margin-left: 60%;
-        font-size: 85%;
-    }
-    /* for the technology box */
-    #HH8 {
-        margin-top: 5%;
-        margin-left: 4%;
-        font-size: 127%;
-    }
-    .P8 {
-        margin-top: 18%;
-        margin-left: -26%;
-        font-size: 85%;
-    }
-    #P8 {
-        margin-top: 23%;
-        margin-left: -26%;
-        font-size: 85%;
-    }
-    .P81 {
-        margin-top: 28%;
-        margin-left: -26%;
-        font-size: 85%;
-    }
-    .P82 {
-        margin-top: 33%;
-        margin-left: -32%;
-        font-size: 85%;
-    }
-    .P83 {
-        margin-top: 38%;
-        margin-left: -32.9%;
-        font-size: 85%;
-    }
-    /* for the we're hiring section */
-    #HH9 {
-        margin-left: 60%;
-        margin-top: -32.4%;
-        font-size: 127%;
-    }
-    .P9 {
-        margin-top: -20%;
-        margin-left: 60%;
-        width: 36%;
-        font-size: 85%;
-    }
-    #P9 {
-        margin-top: -10%;
-        margin-left: 60%;
-        width: 36%;
-        font-size: 85%;
-    }
-    /* for the footer box */
-    #ft {
-        margin-left: -5%;
-        padding-top: 122%;
-        font-size: 66%;
-        text-align: center;
-    }
+  html {
+    overflow-x: hidden;
+  }
+  * {
+    font-family: "Heebo";
+    margin: 0%;
+    padding: 0%;
+  }
+  body {
+    margin: 4%;
+    margin-bottom: 0%;
+    overflow-x: hidden;
+  }
+  nav {
+    height: 0%;
+    width: 0%;
+    border: none;
+  }
+  nav .mainmenu {
+    height: 57vh;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: -1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+    color: #000;
+    transition: top 1s ease;
+    display: none;
+    width: 373px;
+  }
+  nav .mainmenu .closebtn {
+    display: block;
+    position: absolute;
+    top: 58%;
+    right: 49%;
+    font-size: xx-large;
+  }
+  nav .Open_menu {
+    display: block;
+    margin-left: -12%;
+    margin-top: -30%;
+    position: absolute;
+    border: 1px solid black;
+    padding: 0% 10% 0% 9%;
+    border-radius: 14%;
+    background: #00000094;
+  }
+  nav .logo {
+    display: none;
+  }
+  .H6 {
+    margin-top: 36%;
+    height: 0%;
+    margin-left: 79%;
+    display: none;
+  }
+  .H7 {
+    margin-top: 44.6%;
+    margin-left: -120%;
+    background: none;
+    display: none;
+  }
+  #home {
+    margin-top: 72%;
+    margin-left: -27%;
+    font-size: 126%;
+    margin-bottom: 57%;
+    height: 22%;
+  }
+  #aboutus {
+    margin-top: -51%;
+    margin-left: -17%;
+    font-size: 126%;
+    height: 72%;
+  }
+  .dropbtn {
+    margin-top: 25%;
+    margin-left: -9%;
+    height: 30%;
+    margin-bottom: 26%;
+    font-size: 126%;
+  }
+  .dropbtn:hover {
+    padding-bottom: 0%;
+  }
+  nav .mainmenu li a {
+    margin-top: 6%;
+    margin-left: -15%;
+    height: 53%;
+    font-size: 126%;
+    color: #000;
+  }
+  /* for the image */
+  .arrow {
+    margin-top: 28%;
+    width: 74%;
+    margin-left: -1%;
+  }
+  #IMG2 {
+    margin-top: 23%;
+    width: 147%;
+    margin-left: -26%;
+  }
+  #arr {
+    margin-right: -37%;
+    margin-top: -31%;
+    width: 10%;
+  }
+  #arr2 {
+    margin-top: -31%;
+    width: 11%;
+  }
+  #Box {
+    width: 62%;
+    margin-left: 20.5%;
+    text-align: center;
+    font-size: 113%;
+  }
+  #P {
+    font-size: 96%;
+    width: 90%;
+    margin-left: 8%;
+    text-align: center;
+  }
+  /* for the hover box section */
+  .os {
+    margin-left: 46%;
+    font-size: 166%;
+  }
+  .os2 {
+    margin-left: 40%;
+    font-size: 166%;
+  }
+  .ds {
+    width: 85%;
+    font-size: 100%;
+    margin-left: 8%;
+  }
+  #des {
+    width: 29%;
+    padding-left: 36%;
+  }
+  .st {
+    font-size: 120%;
+  }
+  /* for the software development */
+  .sds {
+    width: 85%;
+    font-size: 100%;
+    margin-left: 8%;
+  }
+  #sd {
+    width: 29%;
+  }
+  /* for the md section */
+  #md {
+    width: 85%;
+    font-size: 100%;
+    margin-left: 8%;
+  }
+  #mdi {
+    width: 29%;
+  }
+  /* for the qa testing */
+  #Qat {
+    width: 85%;
+    font-size: 100%;
+    margin-left: 8%;
+  }
+  #Qate {
+    width: 26%;
+  }
+  /* for the digital marketing */
+  #dms {
+    width: 85%;
+    font-size: 100%;
+    margin-left: 8%;
+  }
+  #dmsi {
+    width: 26%;
+  }
+  /* for the dedicated developers  */
+  #dd {
+    width: 85%;
+    font-size: 100%;
+    margin-left: 8%;
+  }
+  #ddi {
+    width: 26%;
+  }
+  /* for the technology we serve box */
+  #box3 {
+    margin-top: 751%;
+    width: 108%;
+    margin-left: -4%;
+    height: 55rem;
+  }
+  /* for the web app */
+  #divwa {
+    width: 64%;
+    position: absolute;
+    height: 23%;
+    left: 19%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  #img5 {
+    margin-left: -12%;
+  }
+  #img6 {
+    margin-left: -12%;
+  }
+  #img7 {
+    margin-left: -12%;
+  }
+  /* for the second box */
+  #divwd {
+    margin-top: 41%;
+    width: 64%;
+    height: 31%;
+    position: absolute;
+    left: 19%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .H63 {
+    padding-bottom: 23%;
+  }
+  /* for the mobile app */
+  #divma {
+    margin-top: 114%;
+    width: 64%;
+    height: 15%;
+    position: absolute;
+    left: 19%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  /* for the green box */
+  #box4 {
+    margin-left: 16%;
+    width: 78%;
+    height: 355px;
+  }
+  .gb {
+    font-size: larger;
+  }
+  /* for the white box  */
+  #box5 {
+    margin-top: -5%;
+    margin-left: 16%;
+    width: 78%;
+  }
+  #La {
+    margin-left: 1%;
+    font-size: larger;
+  }
+  #Na {
+    margin-left: -8%;
+    margin-top: 1%;
+    width: 88%;
+    height: 22px;
+  }
+  #La2 {
+    margin-left: 0%;
+    margin-top: 18%;
+    font-size: larger;
+  }
+  #Ea {
+    margin-left: -8%;
+    margin-top: 1%;
+    width: 88%;
+    height: 22px;
+  }
+  #La3 {
+    margin-left: 0%;
+    margin-top: 10%;
+    font-size: larger;
+  }
+  #myselect {
+    margin-left: -8%;
+    margin-top: 1%;
+    width: 91%;
+    height: 45px;
+  }
+  #La4 {
+    margin-left: 0%;
+    margin-top: 7%;
+    font-size: larger;
+  }
+  #phone {
+    margin-left: -8%;
+    margin-top: 1%;
+    width: 88%;
+    height: 22px;
+  }
+  #txt {
+    margin-left: -34%;
+    margin-top: 16%;
+    width: 133%;
+    height: 22px;
+  }
+  #La5 {
+    width: 141%;
+    margin-left: -37%;
+  }
+  /* for the footer box */
+  #box6 {
+    margin-top: 238%;
+    width: 113%;
+    margin-left: -4%;
+    height: 766px;
+  }
+  /* for the quickcontact section */
+  .HH3 {
+    margin-left: 5%;
+    margin-top: -19%;
+    font-size: 127%;
+    width: 50%;
+  }
+  #P1 {
+    margin-left: 5%;
+    font-size: 85%;
+    margin-top: -5%;
+    width: 45%;
+    color: white;
+  }
+  .P1 {
+    margin-left: 5%;
+    font-size: 85%;
+    margin-top: -1%;
+    width: 45%;
+    color: white;
+  }
+  .PP1 {
+    margin-left: 5%;
+    font-size: 85%;
+    margin-top: -14%;
+    width: 45%;
+    color: white;
+  }
+  /* for the address section */
+  #HH4 {
+    margin-left: 56%;
+    margin-top: -28.9%;
+    font-size: 127%;
+    width: 35%;
+  }
+  #p1 {
+    margin-left: 56%;
+    font-size: 85%;
+    margin-top: -16.6%;
+  }
+  /* for the opening hour section */
+  #HH5 {
+    margin-left: 32%;
+    margin-top: 7%;
+    font-size: 127%;
+  }
+  .P2 {
+    margin-left: 32%;
+    margin-top: 2%;
+    font-size: 85%;
+    padding: 0%;
+  }
+  #P2 {
+    margin-left: 32%;
+    margin-top: 0%;
+    font-size: 85%;
+    padding: 0%;
+  }
+  /* for the line  */
+  .n {
+    padding-top: 39%;
+  }
+  /* for the image box section */
+  #Img10 {
+    margin-left: 1%;
+    margin-top: -3%;
+    width: 37%;
+  }
+  #P3 {
+    font-size: 85%;
+    margin-left: -33%;
+    margin-top: 24%;
+    width: 50%;
+  }
+  #P4 {
+    font-size: 85%;
+    margin-left: -59%;
+    margin-top: 0%;
+    width: 42%;
+  }
+  .P4 {
+    font-size: 85%;
+    margin-left: -106%;
+    margin-top: 11%;
+    width: 42%;
+  }
+  .P44 {
+    font-size: 85%;
+    margin-left: -106%;
+    margin-top: 21%;
+    width: 42%;
+  }
+  /* for the service section */
+  #HH7 {
+    margin-left: 60%;
+    margin-top: -34%;
+    font-size: 127%;
+    width: 38%;
+  }
+  .P6 {
+    margin-top: -21.3%;
+    width: 30%;
+    margin-left: 60%;
+    font-size: 85%;
+  }
+  #P6 {
+    margin-top: -10.3%;
+    width: 35%;
+    margin-left: 60%;
+    font-size: 85%;
+  }
+  #P66 {
+    margin-top: 0%;
+    width: 35%;
+    margin-left: 60%;
+    font-size: 85%;
+  }
+  #P67 {
+    margin-top: -0.7%;
+    width: 24%;
+    margin-left: 60%;
+    font-size: 85%;
+  }
+  #P68 {
+    margin-top: 0%;
+    width: 37%;
+    margin-left: 60%;
+    font-size: 85%;
+  }
+  /* for the technology box */
+  #HH8 {
+    margin-top: 5%;
+    margin-left: 4%;
+    font-size: 127%;
+  }
+  .P8 {
+    margin-top: 18%;
+    margin-left: -26%;
+    font-size: 85%;
+  }
+  #P8 {
+    margin-top: 23%;
+    margin-left: -26%;
+    font-size: 85%;
+  }
+  .P81 {
+    margin-top: 28%;
+    margin-left: -26%;
+    font-size: 85%;
+  }
+  .P82 {
+    margin-top: 33%;
+    margin-left: -32%;
+    font-size: 85%;
+  }
+  .P83 {
+    margin-top: 38%;
+    margin-left: -32.9%;
+    font-size: 85%;
+  }
+  /* for the we're hiring section */
+  #HH9 {
+    margin-left: 60%;
+    margin-top: -32.4%;
+    font-size: 127%;
+  }
+  .P9 {
+    margin-top: -20%;
+    margin-left: 60%;
+    width: 36%;
+    font-size: 85%;
+  }
+  #P9 {
+    margin-top: -10%;
+    margin-left: 60%;
+    width: 36%;
+    font-size: 85%;
+  }
+  /* for the footer box */
+  #ft {
+    margin-left: -5%;
+    padding-top: 122%;
+    font-size: 66%;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .arrow {
+    width: 70%;
+  }
+  #arr {
+    margin-top: -49%;
+  }
+  #arr2 {
+    margin-top: -49%;
+  }
+  #box3 {
+    margin-top: 894%;
+    height: 51rem;
+  }
+  #divma {
+    margin-top: 135%;
+  }
+  #divwd {
+    margin-top: 50%;
+  }
+  #box4 {
+    height: 468px;
+  }
+  #p1 {
+    width: 34%;
+    margin-left: 58%;
+  }
+  #HH8 {
+    margin-left: 6%;
+  }
+  .P8 {
+    margin-left: -31%;
+  }
+  #P8 {
+    margin-left: -31%;
+  }
+  .P81 {
+    margin-left: -31%;
+  }
+  .P82 {
+    margin-left: -38%;
+  }
+  .P83 {
+    margin-left: -38%;
+  }
+  #HH9 {
+    margin-left: 54%;
+  }
+  .P9 {
+    width: 35%;
+    margin-left: 55%;
+  }
+  #P9 {
+    margin-top: -8%;
+    margin-left: 55%;
+  }
+  #ft {
+    width: 71%;
+    padding-top: 131%;
+    margin-left: 10%;
+  }
+}
+@media only screen and (max-width: 425px) {
+  /* for the purple box */
+  #box3 {
+    height: 59rem;
+    margin-top: 654%;
+  }
+  /* for the green box  */
+  #box4 {
+    margin-top: -10%;
+  }
+  /* for the footer */
+  .HH3 {
+    margin-left: 5%;
+    margin-top: -9.5%;
+  }
+  #P1 {
+    margin-top: 1%;
+  }
+  /* for the our address section */
+  #HH4 {
+    margin-left: 56%;
+    margin-top: -22.9%;
+  }
+  #p1 {
+    margin-left: 57%;
+    margin-top: -12.6%;
+  }
+  /* for the image section */
+  #Img10 {
+    margin-left: 4%;
+  }
+  #P3 {
+    width: 44%;
+  }
+  #P4 {
+    margin-left: -108%;
+    margin-top: 32%;
+    width: 36%;
+  }
+  .P4 {
+    margin-left: -108%;
+    margin-top: 40%;
+    width: 35%;
+  }
+  .P44 {
+    margin-left: -108%;
+    margin-top: 48%;
+    width: 39%;
+  }
+  /* for the service section */
+  #HH7 {
+    margin-left: 60%;
+    margin-top: -21%;
+  }
+  .P6{
+    margin-top: -10%;
+    width: 30%;
+    margin-left: 60%;
+  }
+  #P6{
+        margin-top: -1.3%;
+        width: 31%;
+  }
+  #P66{
+    width: 34%;
+  }
+  #P68{
+    width: 34%;
+  }
+  /* for the technology */
+  #HH8 {
+    margin-top: 3%;
+    margin-left: 8%;
+  }
+  .P8{
+    margin-top: 13%;
+    margin-left: -24%;
+  }
+  #P8 {
+    margin-top: 17%;
+    margin-left: -24%;
+  }
+  .P81 {
+    margin-top: 21%;
+    margin-left: -24%;
+  }
+  .P82 {
+    margin-top: 25%;
+    margin-left: -28.5%;
+  }
+  .P83{
+        margin-top: 29%;
+        margin-left: -28.9%;
+  }
+  /* for the we're section */
+  #HH9 {
+    margin-left: 60%;
+    margin-top: -25.8%;
+  }
+  .P9{
+    margin-top: -16.5%;
+    margin-left: 60%;
+    width: 26%;
+  }
+  #P9{
+    margin-top: -7.5%;
+    margin-left: 59.5%;
+  }
+  /* for the footer line */
+  #ft{
+    padding-top: 106%;
+  }
 }
