@@ -1036,9 +1036,6 @@
   #ft{
     padding-top: 116%;
   }
-  #foobar{
-      margin-right: auto;
-  }
 }
 @media only screen and (max-width: 320px) {
   /* for the image */
@@ -1124,7 +1121,7 @@
     margin-top: -4%;
     margin-left: 54.5%;
   }
-  /* for the footer line  */
+  /* for the footer line */
   #ft {
     width: 71%;
     padding-top: 137%;
