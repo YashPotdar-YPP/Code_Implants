@@ -1021,20 +1021,23 @@
     margin-left: -27%;
   }
   #P8{
-    margin-left: -27%;
+    margin-left: -29%;
   }
   .P81{
-    margin-left: -27%;
+    margin-left: -29%;
   }
   .P82{
-    margin-left: -34%;
+    margin-left: -35.5%;
   }
   .P83{
-    margin-left: -33.7%;
+    margin-left: -35.7%;
   }
   /* for the footer line */
   #ft{
     padding-top: 116%;
+  }
+  #foobar{
+      margin-right: auto;
   }
 }
 @media only screen and (max-width: 320px) {
