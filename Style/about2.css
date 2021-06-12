@@ -4,8 +4,9 @@
         margin-bottom: 0%;
     }
     nav{
-        height: 12%;
-        width: 100%;
+        height: 0%;
+        width: 0%;
+        border: none;
         margin-top: -5%;
     }
 
@@ -33,9 +34,17 @@
     }
     nav .Open_menu{
         display: block;
-        margin-left: -3%;
-        margin-top: 8%;
-        font-size: xxx-large;
+        margin-left: 0px;
+        margin-top: -20%;
+        font-size: 172%;
+        border: 1px solid black;
+        height: 37px;
+        width: 25px;
+        padding: 6px;
+        padding-right: 11px;
+        padding-left: 9px;
+        border-radius: 11%;
+        background: #00000094;
     }
     nav .logo{
         display: none;
@@ -82,51 +91,78 @@
     }
     /* for the image */
     #IMG1{
-        margin-left: -59%;
-        margin-top: -59%;
+        margin-left: -55%;
+        width: 91%;
+        margin-top: -91%;
+        height: 221px;
     }
     #at{
-        margin-top: -80%;
-        font-size: 200%;
-        margin-left: 16%;
+        margin-top: -53%;
+        font-size: 120%;
+        margin-left: -18%;
         color: white;
     }
-    #atp{
-        margin-left: -5%; 
+    #atp {
+        margin-left: -26%;
+        margin-top: 3%;
+        font-size: 69%;
+        width: 42%;
     }
     /* for the image after text */
+    #ao{
+        margin-top: 11%;
+    margin-left: -27%;
+    }
     #sechead{
-        margin-left: -29%;
+        margin-left: -27%;
+        margin-top: 7%;
+        font-size: 153%;
+        width: 82%;
     }
     #para2{
-        margin-left: -32%;
-        width: 129%;
-        font-size: x-large;
+        margin-left: -27%;
+        width: 84%;
     }
     /* for the blue image */
     #IMG2{
-        margin-top: -63%;
-        margin-left: 119%;
+        margin-top: 1%;
+        margin-left: -35%;
     }
     /* for the purple box */
     #box2{
-        width: 295%;
-        margin-left: -37%;
-        height: 17%;
+        width: 91%;
+        margin-left: -33%;
+        height: 14%;
         font-size: x-large;
+    }
+    #para3{
+        font-size: 68%;
+        width: 67%;
+    }
+    #btn{
+        font-size: 64%;
+        width: 45%;
+        margin-left: 15%;
+        height: 16%;
     }
     /* for the green box  */
     #box3{
-        height: 21%;
-        margin-left: 66%;
+        height: 25%;
+        margin-left: -8%;
+        width: 61%;
+        margin-top: -7%;
     }
-    #btn{
+    #bfh{
         font-size: x-large;
-        width: 23%;
-        margin-left: 5%;
-    }
+    } 
     #para4{
-        font-size: larger;
+        font-size: 81%;
+    }
+    #rd{
+        font-size: 95%;
+        width: 59%;
+        padding-top: 7%;
+        height: 5%;
     }
     /* for the footer box */
     /* #box4{
@@ -174,10 +210,10 @@
         margin-top: -18%;
     } */
     #box4 {
-        margin-top: 238%;
-        width: 80%;
-        margin-left: -29%;
-        height: 844px;
+        margin-top: 21%;
+        width: 91%;
+        margin-left: -33%;
+        height: 823px;
     }
     /* for the quickcontact section */
     #qc {
@@ -196,7 +232,7 @@
     /* for the address section */
     #oa {
         margin-left: 58%;
-        margin-top: -27.5%;
+        margin-top: -30.5%;
         font-size: 127%;
         width: 50%;
     }
@@ -234,7 +270,7 @@
         margin-left: 5%;
         margin-top: -10%;
         color: white;
-        width: 50%;
+        width: 46%;
     }
     .para9 {
         font-size: 85%;
@@ -246,30 +282,30 @@
     /* for the service section */
     #service{
         margin-left: 65%;
-        margin-top: -56%;
+        margin-top: -73%;
         font-size: 127%;
         width: 50%;
         color: white;
     }
     #para10{
         margin-top: 2%;
-        width: 50%;
-        margin-left: 62%;
+        width: 43%;
+        margin-left: 65%;
         margin-right: 0%;
         font-size: 85%;
         color: white;
     }
     .para11 {
         margin-top: 0.7%;
-        width: 35%;
-        margin-left: 62%;
-        font-size: 85%;        
+        width: 32%;
+        margin-left: 65%;
+        font-size: 85%;
         color: white;
     }
    
     /* for the technology box */
     #Technology{
-        margin-top: 6%;
+        margin-top: 14%;
         margin-left: 4%;
         font-size: 127%;
         color: white;
@@ -288,29 +324,29 @@
     }
     /* for the we're hiring section */
     #wh{
-        margin-left: 62%;
-        margin-top: -39.8%;
+        margin-left: 65%;
+        margin-top: -43.8%;
         font-size: 127%;
         color: white;
     }
     #para14{
         margin-top: 2%;
-        margin-left: 62%;
-        width: 36%;
+        margin-left: 65%;
+        width: 31%;
         font-size: 85%;
         color: white;    
     }
     .para15{
         margin-top: 0%;
-        margin-left: 62%;
+        margin-left: 65%;
         width: 36%;
         font-size: 85%;
         color: white;
     }
     /* for the footer box */
     #footer {
-        margin-left: 4%;
-        padding-top: 13%;
-        font-size: 66%;
+        margin-left: 2%;
+        padding-top: 8%;
+        font-size: 64%;
     }
 }

@@ -38,6 +38,7 @@ body{
     padding: 0;
     font-family: 'Heebo';
     display: flex;
+    flex-direction: row;
 }
 #maindiv{
     display: flex;
@@ -253,7 +254,7 @@ nav .Open_menu{
 
 /* for the second last blog */
 #box2{
-    background-image: url(https://www.tiqso.com/assets/images/backgrounds/7.jpg);
+    background-color: #0F2B5B;
     width: 288%;
     margin-left: -106%;
     height: 29%;
