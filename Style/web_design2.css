@@ -1,304 +1,308 @@
 @media (min-width: 320px) and (max-width: 480px) {
-    html{
-        overflow-x: hidden;
-    }
-    body{
-        margin: 4%;
-        margin-bottom: 0%;
-        font-family: 'Heebo';
-        overflow-x: hidden;
-    }
-    nav{
-        height: 0%;
-        width: -1%;
-        margin-top: -20%;
-        margin-left: 53%;
-        border: none;
-    }
+  html {
+    overflow-x: hidden;
+  }
+  body {
+    margin: 4%;
+    margin-bottom: 0%;
+    font-family: "Heebo";
+    overflow-x: hidden;
+  }
+  nav {
+    height: 0%;
+    width: -1%;
+    margin-top: -20%;
+    margin-left: 53%;
+    border: none;
+  }
 
-    nav .mainmenu{
-        height: 44%;
-        position: fixed;
-        top: 0;
-        right: 0;
-        left: 0;
-        z-index: -1;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        background: #000;
-        color: #000;
-        transition: top 1s ease;
-        display: none;
-    }
-    
-    nav .mainmenu .closebtn{
-        display: block;
-        position: absolute;
-        top: 45%;
-        right: 47%;
-        font-size: xxx-large;
-    }
-    nav .Open_menu{
-        margin-left: -67%;
-        margin-top: 7%;
-        background: #00000094;
-        border: 1px solid#00000094;
-        display: block;
-        font-size: 172%;
-        height: 37px;
-        width: 25px;
-        padding: 6px;
-        padding-right: 11px;
-        padding-left: 9px;
-        border-radius: 11%;
-    }
-    nav .logo{
-        display: none;
-    }
-    .H6{
-        margin-top: 44%;
-        height: 0%;
-        margin-left: 69%;
-        font-size: 78%;
-        display: none;
-    }
-    .H7{
-        margin-top: 49.6%;
-        margin-left: -100%;
-        background: none;
-        font-size: 91%;
-        display: none;
-    }
-    #home{
-        margin-top: 72%;
-        margin-left: -27%;
-        font-size: larger;
-        margin-bottom: 57%;
-        height: 22%;
-        top: -34%;
-    }
-    #aboutus{
-        margin-top: -51%;
-        margin-left: -17%;
-        font-size: larger;
-        height: 72%;
-        top: -91%;
-    }
-    .dropbtn{
-        margin-top: 25%;
-        margin-left: -8%;
-        height: 24%;
-        margin-bottom: 26%;
-        font-size: larger;
-        top: -40%;
-    }
-    .dropbtn:hover{
-        padding-bottom: 0%;
-    }
-    nav .mainmenu li a{
-        margin-top: 10%;
-        margin-left: -15%;
-        height: 53%;
-        font-size: larger;
-        color: #000;
-        top: -196%;
-    }
-    #IMG1{
-        height: 52%;
-        margin-top: -78%;
-        width: 110%;
-        margin-left: -27%;
-    }
-    #fh{
-        margin-top: -65%;
-    }
-    #box{
-        display: none;
-    }
-    /* for the slideshow */
-    .slideshow-container{
-        display: block;
-    }
-    /* for the ui ux development */
-    #firstbox{
-        width: 100%;
-        height: 280px;
-        text-align: center;
-    }
-    #IMG2{
-        width: 21%;
-        height: 28%;
-    }
-    /* for the gaming development section  */
-    #secondbox{
-        width: 100%;
-        height: 280px;
-        text-align: center;
-    }
-    #IMG3{
-        width: 21%;
-        height: 28%;
-    }
-    /* for the responsive website section */
-    #thirdbox{
-        width: 100%;
-        height: 280px;
-        text-align: center;
-    }
-    #IMG4{
-        width: 21%;
-        height: 28%;
-    }
-    /* for the Ecommerce development section  */
-    #fourthbox{
-        width: 100%;
-        height: 280px;
-        text-align: center;
-    }
-    #IMG5{
-        width: 21%;
-        height: 28%;
-    }
-    for the footer box 
-    #box2 {
-        margin-top: 13%;
-        width: 108%;
-        margin-left: -4%;
-        height: 844px;
-    }
-    /* for the quickcontact section */
-    #qc {
-        margin-left: 9%;
-        margin-top: 7%;
-        font-size: 127%;
-        width: 50%;
-    }
-    .para2{
-        margin-left: 9%;
-        font-size: 85%;
-        margin-top: 0%;
-        width: 45%;
-        color: white;
-    }
-    /* for the address section */
-    #oa {
-        margin-left: 56%;
-        margin-top: -24.5%;
-        font-size: 127%;
-        width: 40%;
-    }
-    #para3{
-        margin-left: 56%;
-        color: white;
-        font-size: 85%;
-        margin-top: 0%;
-    }
-    /* for the opening hour section */
-    #oh{
-        margin-left: 32%;
-        margin-top: 16%;
-        font-size: 127%;
-    }
-    .para4{
-        margin-left: 32%;
-        margin-top: 0%;
-        font-size: 85%;
-        padding: 0%;
-        color: white;
-    }
-    /* for the line  */
-    #fornothing{
-        padding-top: 5%;   
-    }
-    /* for the image box section */
-    #img3{
-        margin-left: 5%;
-        margin-top: -7%;
-        width: 40%;
-    }
-    #para5{
-        font-size: 85%;
-        margin-left: 10%;
-        margin-top: -10%;
-        color: white;
-        width: 45%;
-    }
-    .para6{
-        font-size: 85%;
-        margin-left: 10%;
-        margin-top: 0%;
-        width: 34%;
-        color: white;
-    }
-    /* for the service section */
-    #service{
-        margin-left: 61%;
-        margin-top: -49%;
-        font-size: 127%;
-        width: 50%;
-        color: white;
-    }
-    #para7{
-        margin-top: 2%;
-        width: 35%;
-        margin-left: 61%;
-        margin-right: 0%;
-        font-size: 85%;
-        color: white;
-    }
-    .para8{
-        margin-top: 0%;
-        width: 30%;
-        margin-left: 61%;
-        font-size: 85%;        
-        color: white;
-    }
-   
-    /* for the technology box */
-    #Technology{
-        margin-top: 6%;
-        margin-left: 10%;
-        font-size: 127%;
-        color: white;
-    }
-    #para9{
-        margin-top: 2%;
-        margin-left: 10%;
-        font-size: 85%;
-        color: white;
-    }
-    .para10{
-        margin-top: 0%;
-        margin-left: 10%;
-        font-size: 85%;
-        color: white;
-    }
-    /* for the we're hiring section */
-    #wh{
-        margin-left: 61%;
-        margin-top: -33.8%;
-        font-size: 127%;
-        color: white;
-    }
-    #para11{
-        margin-top: 2%;
-        margin-left: 61%;
-        width: 33%;
-        font-size: 85%;
-        color: white;  
-    }
-    .para12{
-        margin-top: 0%;
-        margin-left: 61%;
-        width: 33%;
-        font-size: 85%;
-        color: white;
-    }
-    /* for the footer box */
-    #footer {
-        margin-left: 12%;
-        padding-top: 3%;
-        font-size: 66%;
-    }
+  nav .mainmenu {
+    height: 44%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: -1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+    color: #000;
+    transition: top 1s ease;
+    display: none;
+  }
+
+  nav .mainmenu .closebtn {
+    display: block;
+    position: absolute;
+    top: 45%;
+    right: 47%;
+    font-size: xxx-large;
+  }
+  nav .Open_menu {
+    margin-left: -67%;
+    margin-top: 19%;
+    background: #00000094;
+    border: 1px solid#00000094;
+    display: block;
+    font-size: 172%;
+    height: 37px;
+    width: 25px;
+    padding: 6px;
+    padding-right: 11px;
+    padding-left: 9px;
+    border-radius: 11%;
+  }
+  nav .logo {
+    display: none;
+  }
+  .H6 {
+    margin-top: 44%;
+    height: 0%;
+    margin-left: 69%;
+    font-size: 78%;
+    display: none;
+  }
+  .H7 {
+    margin-top: 49.6%;
+    margin-left: -100%;
+    background: none;
+    font-size: 91%;
+    display: none;
+  }
+  #home {
+    margin-top: 72%;
+    margin-left: -27%;
+    font-size: larger;
+    margin-bottom: 57%;
+    height: 22%;
+    top: -34%;
+  }
+  #aboutus {
+    margin-top: -51%;
+    margin-left: -17%;
+    font-size: larger;
+    height: 72%;
+    top: -91%;
+  }
+  .dropbtn {
+    margin-top: 25%;
+    margin-left: -8%;
+    height: 24%;
+    margin-bottom: 26%;
+    font-size: larger;
+    top: -40%;
+  }
+  .dropbtn:hover {
+    padding-bottom: 0%;
+  }
+  nav .mainmenu li a {
+    margin-top: 10%;
+    margin-left: -15%;
+    height: 53%;
+    font-size: larger;
+    color: #000;
+    top: -196%;
+  }
+  #IMG1 {
+    height: 52%;
+    margin-top: -78%;
+    width: 110%;
+    margin-left: -27%;
+  }
+  #fh {
+    margin-top: -72%;
+    padding-left: 7%;
+  }
+  #box {
+    display: none;
+  }
+  /* for the slideshow */
+  .slideshow-container {
+    display: block;
+  }
+  /* for the ui ux development */
+  #firstbox {
+    width: 100%;
+    height: 315px;
+    text-align: center;
+    padding-bottom: 30%;
+  }
+  #IMG2 {
+    width: 27%;
+    height: 40%;
+  }
+  /* for the gaming development section  */
+  #secondbox {
+    width: 100%;
+    height: 315px;
+    text-align: center;
+    padding-bottom: 40%;
+  }
+  #IMG3 {
+    width: 27%;
+    height: 40%;
+  }
+  /* for the responsive website section */
+  #thirdbox {
+    width: 100%;
+    height: 315px;
+    text-align: center;
+    padding-bottom: 40%;
+  }
+  #IMG4 {
+    width: 27%;
+    height: 40%;
+  }
+  /* for the Ecommerce development section  */
+  #fourthbox {
+    width: 100%;
+    height: 315px;
+    text-align: center;
+    padding-bottom: 16%;
+  }
+  #IMG5 {
+    width: 27%;
+    height: 40%;
+  }
+  for the footer box #box2 {
+    margin-top: 13%;
+    width: 108%;
+    margin-left: -4%;
+    height: 844px;
+  }
+  /* for the quickcontact section */
+  #qc {
+    margin-left: 9%;
+    margin-top: 7%;
+    font-size: 127%;
+    width: 50%;
+  }
+  .para2 {
+    margin-left: 9%;
+    font-size: 85%;
+    margin-top: 0%;
+    width: 45%;
+    color: white;
+  }
+  /* for the address section */
+  #oa {
+    margin-left: 56%;
+    margin-top: -24.5%;
+    font-size: 127%;
+    width: 40%;
+  }
+  #para3 {
+    margin-left: 56%;
+    color: white;
+    font-size: 85%;
+    margin-top: 0%;
+  }
+  /* for the opening hour section */
+  #oh {
+    margin-left: 32%;
+    margin-top: 16%;
+    font-size: 127%;
+  }
+  .para4 {
+    margin-left: 32%;
+    margin-top: 0%;
+    font-size: 85%;
+    padding: 0%;
+    color: white;
+  }
+  /* for the line  */
+  #fornothing {
+    padding-top: 5%;
+  }
+  /* for the image box section */
+  #img3 {
+    margin-left: 5%;
+    margin-top: -7%;
+    width: 40%;
+  }
+  #para5 {
+    font-size: 85%;
+    margin-left: 10%;
+    margin-top: -10%;
+    color: white;
+    width: 45%;
+  }
+  .para6 {
+    font-size: 85%;
+    margin-left: 10%;
+    margin-top: 0%;
+    width: 34%;
+    color: white;
+  }
+  /* for the service section */
+  #service {
+    margin-left: 61%;
+    margin-top: -54%;
+    font-size: 127%;
+    width: 50%;
+    color: white;
+  }
+  #para7 {
+    margin-top: 2%;
+    width: 35%;
+    margin-left: 61%;
+    margin-right: 0%;
+    font-size: 85%;
+    color: white;
+  }
+  .para8 {
+    margin-top: 0%;
+    width: 30%;
+    margin-left: 61%;
+    font-size: 85%;
+    color: white;
+  }
+
+  /* for the technology box */
+  #Technology {
+    margin-top: 6%;
+    margin-left: 10%;
+    font-size: 127%;
+    color: white;
+  }
+  #para9 {
+    margin-top: 2%;
+    margin-left: 10%;
+    font-size: 85%;
+    color: white;
+  }
+  .para10 {
+    margin-top: 0%;
+    margin-left: 10%;
+    font-size: 85%;
+    color: white;
+  }
+  /* for the we're hiring section */
+  #wh {
+    margin-left: 61%;
+    margin-top: -37.8%;
+    font-size: 127%;
+    color: white;
+  }
+  #para11 {
+    margin-top: 2%;
+    margin-left: 61%;
+    width: 33%;
+    font-size: 85%;
+    color: white;
+  }
+  .para12 {
+    margin-top: 0%;
+    margin-left: 61%;
+    width: 33%;
+    font-size: 85%;
+    color: white;
+  }
+  /* for the footer box */
+  #footer {
+    margin-left: 10%;
+    padding-top: 3%;
+    font-size: 62%;
+  }
 }

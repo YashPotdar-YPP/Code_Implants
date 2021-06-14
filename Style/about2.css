@@ -217,17 +217,17 @@
     margin-top: 21%;
     width: 117%;
     margin-left: -42%;
-    height: 841px;
+    height: 63rem;
   }
   /* for the quickcontact section */
   #qc {
-    margin-left: 9%;
+    margin-left: 32%;
     margin-top: 7%;
     font-size: 127%;
     width: 50%;
   }
   .para5 {
-    margin-left: 9%;
+    margin-left: 32%;
     font-size: 85%;
     margin-top: 0%;
     width: 45%;
@@ -235,13 +235,13 @@
   }
   /* for the address section */
   #oa {
-    margin-left: 56%;
-    margin-top: -23.5%;
+    margin-left: 32%;
+    margin-top: 15.5%;
     font-size: 127%;
     width: 50%;
   }
   #para6 {
-    margin-left: 56%;
+    margin-left: 32%;
     color: white;
     font-size: 85%;
     margin-top: 0%;
@@ -249,7 +249,7 @@
   /* for the opening hour section */
   #oh {
     margin-left: 32%;
-    margin-top: 16%;
+    margin-top: 14%;
     font-size: 127%;
   }
   .para7 {
@@ -285,7 +285,7 @@
   }
   /* for the service section */
   #service {
-    margin-left: 63%;
+    margin-left: 60%;
     margin-top: -50%;
     font-size: 127%;
     width: 50%;
@@ -294,7 +294,7 @@
   #para10 {
     margin-top: 2%;
     width: 43%;
-    margin-left: 63%;
+    margin-left: 60%;
     margin-right: 0%;
     font-size: 85%;
     color: white;
@@ -302,7 +302,7 @@
   .para11 {
     margin-top: 0.7%;
     width: 31%;
-    margin-left: 63%;
+    margin-left: 60%;
     font-size: 85%;
     color: white;
   }
@@ -328,21 +328,21 @@
   }
   /* for the we're hiring section */
   #wh {
-    margin-left: 63%;
+    margin-left: 60%;
     margin-top: -35.8%;
     font-size: 127%;
     color: white;
   }
   #para14 {
     margin-top: 2%;
-    margin-left: 63%;
+    margin-left: 60%;
     width: 27%;
     font-size: 85%;
     color: white;
   }
   .para15 {
     margin-top: 0%;
-    margin-left: 63%;
+    margin-left: 60%;
     width: 36%;
     font-size: 85%;
     color: white;
