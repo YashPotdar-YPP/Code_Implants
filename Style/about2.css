@@ -1,7 +1,11 @@
 @media (min-width: 320px) and (max-width: 480px) {
+    html{
+        overflow-x: hidden;
+    }
     body{
         margin: 4%;
         margin-bottom: 0%;
+        overflow-x: hidden;
     }
     nav{
         height: 0%;
@@ -91,13 +95,13 @@
     }
     /* for the image */
     #IMG1{
-        margin-left: -55%;
-        width: 91%;
+        margin-left: -64%;
+        width: 115%;
         margin-top: -91%;
-        height: 221px;
+        height: 192px;
     }
     #at{
-        margin-top: -53%;
+        margin-top: -49%;
         font-size: 120%;
         margin-left: -18%;
         color: white;
@@ -106,22 +110,22 @@
         margin-left: -26%;
         margin-top: 3%;
         font-size: 69%;
-        width: 42%;
+        width: 47%;
     }
     /* for the image after text */
     #ao{
-        margin-top: 11%;
-    margin-left: -27%;
+        margin-top: 13%;
+        margin-left: -30%;
     }
     #sechead{
-        margin-left: -27%;
+        margin-left: -31%;
         margin-top: 7%;
         font-size: 153%;
-        width: 82%;
+        width: 91%;
     }
     #para2{
-        margin-left: -27%;
-        width: 84%;
+        margin-left: -31%;
+        width: 90%;
     }
     /* for the blue image */
     #IMG2{
@@ -130,9 +134,9 @@
     }
     /* for the purple box */
     #box2{
-        width: 91%;
-        margin-left: -33%;
-        height: 14%;
+        width: 115%;
+        margin-left: -42%;
+        height: 13%;
         font-size: x-large;
     }
     #para3{
@@ -149,7 +153,7 @@
     #box3{
         height: 25%;
         margin-left: -8%;
-        width: 61%;
+        width: 73%;
         margin-top: -7%;
     }
     #bfh{
@@ -211,9 +215,9 @@
     } */
     #box4 {
         margin-top: 21%;
-        width: 91%;
-        margin-left: -33%;
-        height: 823px;
+        width: 117%;
+        margin-left: -42%;
+        height: 841px;
     }
     /* for the quickcontact section */
     #qc {
@@ -232,7 +236,7 @@
     /* for the address section */
     #oa {
         margin-left: 58%;
-        margin-top: -30.5%;
+        margin-top: -23.5%;
         font-size: 127%;
         width: 50%;
     }
@@ -261,20 +265,20 @@
     }
     /* for the image box section */
     #img3{
-        margin-left: 1%;
+        margin-left: 4%;
         margin-top: -7%;
         width: 40%;
     }
     #para8{
         font-size: 85%;
-        margin-left: 5%;
+        margin-left: 8%;
         margin-top: -10%;
         color: white;
         width: 46%;
     }
     .para9 {
         font-size: 85%;
-        margin-left: 5%;
+        margin-left: 8%;
         margin-top: 0%;
         width: 34%;
         color: white;
@@ -282,7 +286,7 @@
     /* for the service section */
     #service{
         margin-left: 65%;
-        margin-top: -73%;
+        margin-top: -50%;
         font-size: 127%;
         width: 50%;
         color: white;
@@ -297,7 +301,7 @@
     }
     .para11 {
         margin-top: 0.7%;
-        width: 32%;
+        width: 31%;
         margin-left: 65%;
         font-size: 85%;
         color: white;
@@ -305,34 +309,34 @@
    
     /* for the technology box */
     #Technology{
-        margin-top: 14%;
-        margin-left: 4%;
+        margin-top: 8%;
+        margin-left: 8%;
         font-size: 127%;
         color: white;
     }
     #para12{
         margin-top: 2%;
-        margin-left: 4%;
+        margin-left: 8%;
         font-size: 85%;
         color: white;
     }
     .para13{
         margin-top: 0%;
-        margin-left: 4.2%;
+        margin-left: 8%;
         font-size: 85%;
         color: white;
     }
     /* for the we're hiring section */
     #wh{
         margin-left: 65%;
-        margin-top: -43.8%;
+        margin-top: -35.8%;
         font-size: 127%;
         color: white;
     }
     #para14{
         margin-top: 2%;
         margin-left: 65%;
-        width: 31%;
+        width: 27%;
         font-size: 85%;
         color: white;    
     }
@@ -345,8 +349,8 @@
     }
     /* for the footer box */
     #footer {
-        margin-left: 2%;
-        padding-top: 8%;
+        margin-left: 10%;
+        padding-top: 1%;
         font-size: 64%;
     }
 }
