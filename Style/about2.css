@@ -15,7 +15,7 @@
   }
 
   nav .mainmenu {
-    height: 100vh;
+    height: 44%;
     position: fixed;
     top: 0;
     right: 0;
@@ -32,7 +32,7 @@
   nav .mainmenu .closebtn {
     display: block;
     position: absolute;
-    top: 19%;
+    top: 52%;
     right: 49%;
     font-size: xxx-large;
   }
