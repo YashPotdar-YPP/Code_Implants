@@ -1,375 +1,333 @@
-@media only screen and ( max-width:480px) {
-    body {
-        margin: 4%;
-        margin-bottom: 0%;
-    }
-    nav {
-        height: 16%;
-        width: 100%;
-        margin-top: -12%;
-    }
-    nav .mainmenu {
-        height: 82%;
-        position: fixed;
-        top: 0;
-        right: 0;
-        left: 0;
-        z-index: -1;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        background: #000;
-        color: #000;
-        transition: top 1s ease;
-        display: none;
-    }
-    nav .mainmenu .closebtn {
-        display: block;
-        position: absolute;
-        top: 38%;
-        right: 47%;
-        font-size: xxx-large;
-    }
-    nav .Open_menu {
-        display: block;
-        margin-left: -86%;
-        margin-top: 7%;
-        font-size: 191%;
-    }
-    nav .logo {
-        display: none;
-    }
-    .H6 {
-        margin-top: 5%;
-        height: 0%;
-        margin-left: 86%;
-        font-size: 78%;
-        top: -53%;
-    }
-    .H7 {
-        margin-top: 13.9%;
-        margin-left: -106%;
-        background: none;
-        font-size: 89%;
-    }
-    #home {
-        margin-top: 72%;
-        margin-left: -27%;
-        font-size: larger;
-        margin-bottom: 57%;
-        height: 22%;
-        top: -34%;
-    }
-    #aboutus {
-        margin-top: -51%;
-        margin-left: -17%;
-        font-size: larger;
-        height: 72%;
-        top: -91%;
-    }
-    .dropbtn {
-        margin-top: 25%;
-        margin-left: -8%;
-        height: 28%;
-        margin-bottom: 26%;
-        font-size: larger;
-        top: -40%;
-    }
-    .dropbtn:hover {
-        padding-bottom: 0%;
-    }
-    nav .mainmenu li a {
-        margin-top: 10%;
-        margin-left: -14%;
-        height: 53%;
-        font-size: larger;
-        color: #000;
-        top: -196%;
-    }
-    /* for the main image */
-    #IMG1 {
-        height: 7%;
-        margin-top: -77%;
-        margin-left: -27%;
-        width: 115%;
-    }
-    /* for the four box parent box */
-    #secondmbox {
-        padding-bottom: 3%;
-    }
-    /* for the four box */
-    #box5 {
-        display: none;
-    }
-    .slideshow-container {
-        display: block;
-    }
-    #firstbox {
-        width: 88%;
-        margin-left: 7%;
-        height: 405px;
-    }
-    #IMG2 {
-        width: 20%;
-        margin-top: 14%;
-        margin-bottom: 1%;
-    }
-    /* for the second box */
-    #secondbox {
-        width: 88%;
-        margin-left: 7%;
-        height: 405px;
-    }
-    #IMG3 {
-        width: 20%;
-        margin-top: 14%;
-        margin-bottom: 1%;
-    }
-    /* for the third box */
-    #thirdbox {
-        width: 88%;
-        margin-left: 7%;
-        height: 405px;
-    }
-    #IMG4 {
-        width: 20%;
-        margin-top: 14%;
-        margin-bottom: 1%;
-    }
-    /* for the fourth box */
-    #fourthbox {
-        width: 88%;
-        margin-left: 7%;
-        height: 405px;
-    }
-    #IMG5 {
-        width: 20%;
-        margin-top: 14%;
-        margin-bottom: 1%;
-    }
-    /* for the  footer box 
-    /* for the quick contact section 
-    .para5 {
-        font-size: 72%;
-    }
-    /* for the our address section 
-    #oa {
-        margin-left: 63%;
-        margin-top: -19%;
-    }
-    #para6 {
-        margin-left: 59%;
-        margin-top: 2.2%;
-        font-size: 72%;
-    }
-    /* for the opening hour section 
-    #oh {
-        margin-top: 9%;
-        margin-left: 37%;
-    }
-    .para7 {
-        margin-top: 2%;
-        margin-left: 37%;
-        font-size: 72%;
-    }
-    /* for the image section 
-    #img3 {
-        width: 30%;
-    }
-    #para8 {
-        font-size: 72%;
-        margin-top: 10%;
-        margin-left: 7%;
-    }
-    .para9 {
-        font-size: 72%;
-        margin-top: -9%;
-        margin-left: 7%;
-    }
-    /* for the service section 
-    #service {
-        margin-left: 66%;
-        margin-top: -14%;
-    }
-    #para10 {
-        font-size: 72%;
-        margin-top: 3.1%;
-        margin-left: 59%;
-    }
-    .para11 {
-        font-size: 72%;
-        margin-left: 59%;
-    }
-    /* for the technology services 
-    #Technology {
-        margin-top: 6%;
-        margin-left: 11%;
-    }
-    #para12 {
-        margin-left: 11%;
-        font-size: 72%;
-    }
-    .para13 {
-        margin-left: 11%;
-        font-size: 72%;
-    }
-    /* for the we're hiring section 
-    #wh {
-        margin-top: -35%;
-        margin-left: 64%;
-    }
-    #para14 {
-        margin-left: 62%;
-        font-size: 72%;
-    }
-    .para15 {
-        margin-left: 62%;
-        font-size: 72%;
-    }
-    /* for the footer line 
-    #footer {
-        margin-top: 27%;
-        margin-left: 19%;
-        font-size: 66%;
-    }*/
-    #lastblog {
-        margin-top: 13%;
-        width: 108%;
-        margin-left: -4%;
-        height: 844px;
-    }
-    /* for the quickcontact section */
-    #qc {
-        margin-left: 5%;
-        margin-top: 7%;
-        font-size: 127%;
-        width: 50%
-    }
-    .para5{
-        margin-left: 5%;
-        font-size: 85%;
-        margin-top: 0%;
-        width: 45%;
-        color: white;
-    }
-    /* for the address section */
-    #oa {
-        margin-left: 58%;
-        margin-top: -27.5%;
-        font-size: 127%;
-        width: 50%;
-    }
-    #para6{
-        margin-left: 58%;
-        color: white;
-        font-size: 85%;
-        margin-top: 0%;
-    }
-    /* for the opening hour section */
-    #oh{
-        margin-left: 32%;
-        margin-top: 16%;
-        font-size: 127%;
-    }
-    .para7{
-        margin-left: 32%;
-        margin-top: 0%;
-        font-size: 85%;
-        padding: 0%;
-        color: white;
-    }
-    /* for the line  */
-    #fornothing{
-        padding-top: 5%;   
-    }
-    /* for the image box section */
-    #img3{
-        margin-left: 1%;
-        margin-top: -7%;
-        width: 40%;
-    }
-    #para8{
-        font-size: 85%;
-        margin-left: 5%;
-        margin-top: -10%;
-        color: white;
-        width: 50%;
-    }
-    .para9{
-        font-size: 85%;
-        margin-left: 5%;
-        margin-top: 0%;
-        width: 34%;
-        color: white;
-    }
-    /* for the service section */
-    #service{
-        margin-left: 65%;
-        margin-top: -56%;
-        font-size: 127%;
-        width: 50%;
-        color: white;
-    }
-    #para10{
-        margin-top: 2%;
-        width: 50%;
-        margin-left: 62%;
-        margin-right: 0%;
-        font-size: 85%;
-        color: white;
-    }
-    .para11{
-        margin-top: 0.7%;
-        width: 35%;
-        margin-left: 62%;
-        font-size: 85%;        
-        color: white;
-    }
-   
-    /* for the technology box */
-    #Technology{
-        margin-top: 6%;
-        margin-left: 4%;
-        font-size: 127%;
-        color: white;
-    }
-    #para12{
-        margin-top: 2%;
-        margin-left: 4%;
-        font-size: 85%;
-        color: white;
-    }
-    .para13{
-        margin-top: 0%;
-        margin-left: 4.2%;
-        font-size: 85%;
-        color: white;
-    }
-    /* for the we're hiring section */
-    #wh{
-        margin-left: 62%;
-        margin-top: -39.8%;
-        font-size: 127%;
-        color: white;
-    }
-    #para14{
-        margin-top: 2%;
-        margin-left: 62%;
-        width: 36%;
-        font-size: 85%;
-        color: white;    
-    }
-    .para15{
-        margin-top: 0%;
-        margin-left: 62%;
-        width: 36%;
-        font-size: 85%;
-        color: white;
-    }
-    /* for the footer box */
-    #footer {
-        margin-left: 4%;
-        padding-top: 13%;
-        font-size: 66%;
-    }
+@media only screen and (max-width: 480px) {
+  html {
+    overflow-x: hidden;
+  }
+  body {
+    margin: 4%;
+    margin-bottom: 0%;
+    overflow-x: hidden;
+  }
+  nav {
+    height: 0%;
+    width: 0%;
+    margin-top: -12%;
+    border: none;
+  }
+  nav .mainmenu {
+    height: 82%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: -1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+    color: #000;
+    transition: top 1s ease;
+    display: none;
+  }
+  nav .mainmenu .closebtn {
+    display: block;
+    position: absolute;
+    top: 38%;
+    right: 47%;
+    font-size: xxx-large;
+  }
+  nav .Open_menu {
+    margin-left: -67%;
+    margin-top: -28px;
+    border: 1px solid#00000094;
+    display: block;
+    font-size: 172%;
+    height: 37px;
+    width: 25px;
+    padding: 6px;
+    padding-right: 11px;
+    padding-left: 9px;
+    border-radius: 11%;
+  }
+  nav .logo {
+    display: none;
+  }
+  .H6 {
+    margin-top: 5%;
+    height: 0%;
+    margin-left: 86%;
+    font-size: 78%;
+    top: -53%;
+    display: none;
+  }
+  .H7 {
+    margin-top: 13.9%;
+    margin-left: -106%;
+    background: none;
+    font-size: 89%;
+    display: none;
+  }
+  #home {
+    margin-top: 72%;
+    margin-left: -27%;
+    font-size: larger;
+    margin-bottom: 57%;
+    height: 22%;
+    top: -34%;
+  }
+  #aboutus {
+    margin-top: -51%;
+    margin-left: -17%;
+    font-size: larger;
+    height: 72%;
+    top: -91%;
+  }
+  .dropbtn {
+    margin-top: 25%;
+    margin-left: -8%;
+    height: 28%;
+    margin-bottom: 26%;
+    font-size: larger;
+    top: -40%;
+  }
+  .dropbtn:hover {
+    padding-bottom: 0%;
+  }
+  nav .mainmenu li a {
+    margin-top: 10%;
+    margin-left: -14%;
+    height: 53%;
+    font-size: larger;
+    color: #000;
+    top: -196%;
+  }
+  /* for the main image */
+  #IMG1 {
+    height: 206px;
+    margin-top: -78%;
+    margin-left: -26%;
+    width: 103%;
+  }
+  /* for the three box that on image */
+  #mainbox {
+    display: flex;
+    flex-direction: column;
+  }
+  .box2 {
+    width: 72%;
+  }
+  .box3 {
+    width: 72%;
+    margin-left: 13%;
+    margin-top: 2%;
+  }
+  .box4 {
+    width: 72%;
+    margin-left: 13%;
+    margin-top: 2%;
+  }
+  /* for the four box parent box */
+  #secondmbox {
+    padding-bottom: 3%;
+  }
+  .para2 {
+    padding: 10%;
+  }
+  /* for the four box */
+  #box5 {
+    display: none;
+  }
+  .slideshow-container {
+    display: block;
+  }
+  #firstbox {
+    width: 82%;
+    margin-left: 9%;
+    height: 382px;
+    padding-bottom: 6%;
+  }
+  #IMG2 {
+    width: 20%;
+    margin-top: 14%;
+    margin-bottom: 1%;
+  }
+  /* for the second box */
+  #secondbox {
+    width: 82%;
+    margin-left: 9%;
+    height: 382px;
+    padding-bottom: 67%;
+  }
+  #IMG3 {
+    width: 20%;
+    margin-top: 6%;
+    margin-bottom: 1%;
+    height: 40%;
+  }
+  /* for the third box */
+  #thirdbox {
+    width: 82%;
+    margin-left: 9%;
+    height: 382px;
+    padding-bottom: 34%;
+  }
+  #IMG4 {
+    width: 23%;
+    margin-top: 8%;
+    margin-bottom: 1%;
+    height: 26%;
+  }
+  /* for the fourth box */
+  #fourthbox {
+    width: 82%;
+    margin-left: 9%;
+    height: 382px;
+    padding-bottom: 40%;
+  }
+  #IMG5 {
+    width: 21%;
+    margin-top: 5%;
+    margin-bottom: 1%;
+    height: 26%;
+  }
+  /* for the footer box */
+  #lastblog {
+    margin-top: 13%;
+    width: 108%;
+    margin-left: -4%;
+    height: 56rem;
+  }
+  /* for the quickcontact section */
+  #qc {
+    margin-left: 32%;
+    margin-top: 7%;
+    font-size: 127%;
+    width: 50%;
+  }
+  .para5 {
+    margin-left: 32%;
+    font-size: 85%;
+    margin-top: 0%;
+    width: 45%;
+    color: white;
+  }
+  /* for the address section */
+  #oa {
+    margin-left: 32%;
+    margin-top: 8.5%;
+    font-size: 127%;
+    width: 50%;
+  }
+  #para6 {
+    margin-left: 32%;
+    color: white;
+    font-size: 85%;
+    margin-top: 0%;
+  }
+  /* for the opening hour section */
+  #oh {
+    margin-left: 32%;
+    margin-top: 5%;
+    font-size: 127%;
+  }
+  .para7 {
+    margin-left: 32%;
+    margin-top: 0%;
+    font-size: 85%;
+    padding: 0%;
+    color: white;
+  }
+  /* for the line  */
+  #fornothing {
+    padding-top: 5%;
+  }
+  /* for the image box section */
+  #img3 {
+    margin-left: 4%;
+    margin-top: -7%;
+    width: 40%;
+  }
+  #para8 {
+    font-size: 85%;
+    margin-left: 7%;
+    margin-top: -10%;
+    color: white;
+    width: 50%;
+  }
+  .para9 {
+    font-size: 85%;
+    margin-left: 7%;
+    margin-top: 0%;
+    width: 34%;
+    color: white;
+  }
+  /* for the service section */
+  #service {
+    margin-left: 61%;
+    margin-top: -56%;
+    font-size: 127%;
+    width: 50%;
+    color: white;
+  }
+  #para10 {
+    margin-top: 2%;
+    width: 50%;
+    margin-left: 61%;
+    margin-right: 0%;
+    font-size: 85%;
+    color: white;
+  }
+  .para11 {
+    margin-top: 0.7%;
+    width: 35%;
+    margin-left: 61%;
+    font-size: 85%;
+    color: white;
+  }
+
+  /* for the technology box */
+  #Technology {
+    margin-top: 6%;
+    margin-left: 7%;
+    font-size: 127%;
+    color: white;
+  }
+  #para12 {
+    margin-top: 2%;
+    margin-left: 7%;
+    font-size: 85%;
+    color: white;
+  }
+  .para13 {
+    margin-top: 0%;
+    margin-left: 7.2%;
+    font-size: 85%;
+    color: white;
+  }
+  /* for the we're hiring section */
+  #wh {
+    margin-left: 61%;
+    margin-top: -39.8%;
+    font-size: 127%;
+    color: white;
+  }
+  #para14 {
+    margin-top: 2%;
+    margin-left: 61%;
+    width: 36%;
+    font-size: 85%;
+    color: white;
+  }
+  .para15 {
+    margin-top: 0%;
+    margin-left: 61%;
+    width: 36%;
+    font-size: 85%;
+    color: white;
+  }
+  /* for the footer box */
+  #footer {
+    margin-left: 7%;
+    padding-top: 2%;
+    font-size: 63%;
+  }
 }
