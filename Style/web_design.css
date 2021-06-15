@@ -5,7 +5,7 @@
     display: inline-block;
     margin-left: -10%;
     margin-bottom: -20%;
-    margin-top: 19.7%;
+    margin-top: 32.7%;
     border: 1px solid white;
     background-color: white;
     position: relative;
@@ -15,9 +15,9 @@
 .H7{
     font-size: 100%;
     display: inline-block;
-    margin-left: 10%;
+    margin-left: 7%;
     margin-bottom: -20%;
-    margin-top: 22.5%;
+    margin-top: 36.9%;
     border: 1px solid white;
     background-color: white;
     position: relative;
@@ -37,13 +37,13 @@ body{
     color: black;
 }
 #logo{
-    margin-top: -8%;
+    margin-top: -2%;
     margin-left: -269%;
-    width: 52%;
+    width: 59%;
 }
 nav{
     position: fixed;
-    top: 10%;
+    top: 4%;
     left: 0%;
     width: 100%;
     height: 19%;
@@ -301,7 +301,7 @@ nav .Open_menu{
 }
 #qc{
     font-size: large;
-    margin-left: 8%;
+    margin-left: 4%;
     margin-top: 5%;
 }
 .para2{
@@ -312,19 +312,19 @@ nav .Open_menu{
 /* for our address section */
 #oa{
     font-size: large;
-    margin-left: 48%;
-    margin-top: -9%;
+    margin-left: 42%;
+    margin-top: -12.7%;
 }
 #para3{
     font-size: large;
-    margin-left: 46%;
+    margin-left: 42%;
     margin-top: 1%;
 }
 /* for opening hours section */
 #oh{
     font-size: large;
-    margin-left: 75%;
-    margin-top: -7%;
+    margin-left: 73%;
+    margin-top: -7.8%;
 }
 .para4{
     font-size: large;
@@ -378,8 +378,8 @@ nav .Open_menu{
 }
 /* for Technology service blog */
 #Technology{
-    margin-left: 55%;
-    margin-top: -18%;
+    margin-left: 54%;
+    margin-top: -19.8%;
     color: #ddd;
     font-size: large;
 }
@@ -397,8 +397,8 @@ nav .Open_menu{
 }
 /* for the hiring blog */
 #wh{
-    margin-left: 75%;
-    margin-top: -18%;
+    margin-left: 74%;
+    margin-top: -18.9%;
     color: #ddd;
     font-size: large;
 }

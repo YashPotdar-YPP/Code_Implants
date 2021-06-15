@@ -1,4 +1,4 @@
-/*big tablet to 1200px*/
+/* big tablet to 1200px*/
 
 @media only screen and (max-width: 1200px) {
   #IMG2 {
@@ -702,7 +702,7 @@
     margin-top: 238%;
     width: 113%;
     margin-left: -4%;
-    height: 766px;
+    height: 907px;
   }
   /* for the quickcontact section */
   .HH3 {
@@ -892,7 +892,7 @@
 }
 
 @media only screen and (max-width: 425px) {
-  .arrow{
+  .arrow {
     width: 68%;
     margin-left: 2%;
   }
@@ -1008,45 +1008,120 @@
     padding-top: 106%;
   }
 }
+
 @media only screen and (max-width: 375px) {
-  .arrow{
+  /* for the hamburger section */
+  nav .Open_menu{
+    margin-top: 56%;
+  }
+  /* for the image section */
+  .arrow {
     width: 68%;
     margin-left: 2%;
   }
   #box3 {
     margin-top: 748%;
   }
+  /* for the footer box */
+  #box6{
+    height: 63rem;
+  }
+  /* for the quick contact section */
+  .HH3 {
+    margin-left: 32%;
+    margin-top: -9.5%;
+  }
+  #P1 {
+    margin-left: 32%;
+  }
+  .PP1 {
+    margin-left: 32%;
+  }
+  .P1 {
+    margin-left: 32%;
+  }
+
+  /* for the our address section */
+  #HH4 {
+    margin-left: 32%;
+    margin-top: 13.1%;
+  }
+  #p1 {
+    margin-left: 33%;
+    margin-top: 2.4%;
+  }
+  /* for the opening hour section */
+  #HH5 {
+    margin-top: 7%;
+  }
+  /* for the horizontal line */
+  .n {
+    padding-top: 83%;
+  }
   /* for the the image section */
+  #Img10 {
+    margin-left: 4%;
+    margin-top: 24%;
+  }
+  #P3 {
+    margin-top: 50%;
+  }
   #P4 {
-    margin-top: 34%;
+    margin-top: 60%;
   }
-  .P4{
-    margin-top: 44%;
+  .P4 {
+    margin-top: 70%;
   }
-  .P44{
-    margin-top: 54%;
+  .P44 {
+    margin-top: 80%;
   }
   /* for the technology section */
-  .P8{
-    margin-left: -27%;
+  #HH8 {
+    margin-top: 10%;
+    margin-left: 8%;
   }
-  #P8{
+  .P8 {
     margin-left: -27%;
+    margin-top: 22%;
   }
-  .P81{
+  #P8 {
     margin-left: -27%;
+    margin-top: 27%;
   }
-  .P82{
+  .P81 {
+    margin-left: -27%;
+    margin-top: 31.5%;
+  }
+  .P82 {
     margin-left: -32.4%;
+    margin-top: 36%;
   }
-  .P83{
+  .P83 {
     margin-left: -32.4%;
+    margin-left: -32.4%;
+    margin-top: 41%;
+  }
+  /* for the we're hiring section */
+  #HH9 {
+    margin-left: 60%;
+    margin-top: -30.4%;
+  }
+  .P9 {
+    margin-top: -19.5%;
+    margin-left: 60%;
+    width: 26%;
+  }
+  #P9 {
+    margin-top: -9.5%;
+    margin-left: 60%;
+    width: 26%;
   }
   /* for the footer line */
-  #ft{
-    padding-top: 116%;
+  #ft {
+    padding-top: 152%;
   }
 }
+
 @media only screen and (max-width: 320px) {
   /* for the image */
   .arrow {
@@ -1127,10 +1202,12 @@
   .P9 {
     width: 35%;
     margin-left: 55%;
+    margin-top: -19.5%;
   }
   #P9 {
     margin-top: -4%;
     margin-left: 54.5%;
+    margin-top: -19.5%;
   }
   /* for the footer line */
   #ft {
