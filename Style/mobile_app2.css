@@ -14,7 +14,7 @@
     border: none;
   }
   nav .mainmenu {
-    height: 82%;
+    height: 44%;
     position: fixed;
     top: 0;
     right: 0;
@@ -47,6 +47,7 @@
     padding-right: 11px;
     padding-left: 9px;
     border-radius: 11%;
+    background: white;
   }
   nav .logo {
     display: none;
