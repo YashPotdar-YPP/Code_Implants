@@ -14,7 +14,7 @@
     border: none;
   }
   nav .mainmenu {
-    height: 44%;
+    height: 50%;
     position: fixed;
     top: 0;
     right: 0;
@@ -37,7 +37,7 @@
   }
   nav .Open_menu {
     margin-left: -67%;
-    margin-top: -14px;
+    margin-top: 37px;
     border: 1px solid#00000094;
     display: block;
     font-size: 172%;
@@ -106,6 +106,7 @@
     width: 109%;
     height: 4%;
     margin-left: -26%;
+    margin-top: 22%;
   }
   /* for the image after text  */
   #fh {
@@ -248,7 +249,7 @@
     margin-left: 7%;
     margin-top: -10%;
     color: white;
-    width: 50%;
+    width: 46%;
   }
   .para9 {
     font-size: 85%;
@@ -260,9 +261,9 @@
   /* for the service section */
   #service {
     margin-left: 61%;
-    margin-top: -56%;
+    margin-top: -50%;
     font-size: 127%;
-    width: 50%;
+    width: 22%;
     color: white;
   }
   #para10 {
@@ -283,7 +284,7 @@
 
   /* for the technology box */
   #Technology {
-    margin-top: 6%;
+    margin-top: 12%;
     margin-left: 7%;
     font-size: 127%;
     color: white;
@@ -303,14 +304,14 @@
   /* for the we're hiring section */
   #wh {
     margin-left: 61%;
-    margin-top: -39.8%;
+    margin-top: -34.8%;
     font-size: 127%;
     color: white;
   }
   #para14 {
-    margin-top: 2%;
+    margin-top: 1%;
     margin-left: 61%;
-    width: 36%;
+    width: 28%;
     font-size: 85%;
     color: white;
   }
@@ -323,8 +324,73 @@
   }
   /* for the footer box */
   #footer {
-    margin-left: 4%;
-    padding-top: 9%;
-    font-size: 66%;
+    margin-left: 9%;
+    padding-top: 12%;
+    font-size: 63%;
+    margin-top: 11%;
+  }
+}
+@media only screen and (max-width: 375px) {
+  nav .mainmenu {
+    height: 50%;
+  }
+  #IMG1 {
+    margin-top: 23%;
+  }
+  #service {
+    margin-top: -56%;
+  }
+  #wh {
+    margin-top: -39.8%;
+  }
+  #footer {
+    padding-top: 10%;
+  }
+}
+@media only screen and (max-width: 320px) {
+  /* for the ul list height */
+  nav .mainmenu{
+    height: 50%;
+  }
+  /* for the hamburger icon and for the close icon */
+  nav .Open_menu {
+    margin-top: 17px;
+  }
+  nav .mainmenu .closebtn {
+    top: 45%;
+  }
+  /* for the submit request button */
+  #submit {
+    width: 37%;
+    margin-left: 30%;
+  }
+  /* for the service section */
+  #service {
+    margin-top: -84%;
+    margin-left: 59%;
+  }
+  #para10 {
+    width: 30%;
+    margin-left: 59%;
+  }
+  .para11 {
+    width: 30%;
+    margin-left: 59%;
+  }
+  /* for the we're hiring section  */
+  #wh {
+    margin-top: -45.8%;
+    margin-left: 59%;
+  }
+  #para14 {
+    margin-left: 59%;
+  }
+  .para15 {
+    margin-left: 59%;
+  }
+  /* for the footer line */
+  #footer {
+    padding-top: 14%;
+    font-size: 54%;
   }
 }

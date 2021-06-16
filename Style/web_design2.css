@@ -30,7 +30,7 @@
     color: #000;
     transition: top 1s ease;
     display: none;
-    background: white;
+        background: white;
   }
 
   nav .mainmenu .closebtn {
