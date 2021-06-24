@@ -14,7 +14,7 @@
     border: none;
   }
   nav .mainmenu {
-    height: 50%;
+    height: 48%;
     position: fixed;
     top: 0;
     right: 0;
@@ -68,38 +68,42 @@
   }
   #home {
     margin-top: 0%;
-    margin-left: -27%;
+    margin-left: -26%;
     font-size: larger;
     margin-bottom: 57%;
     height: 22%;
-    top: -91%;
+    top: -4%;
   }
   #aboutus {
     margin-top: 0%;
-    margin-left: -20%;
+    margin-left: -17%;
     font-size: larger;
     margin-bottom: 57%;
     height: 22%;
-    top: -46%;
+    top: 18%;
   }
   .dropbtn {
     margin-top: -29%;
-    margin-left: -11%;
+    margin-left: -9%;
     height: 47%;
     margin-bottom: 26%;
     font-size: larger;
-    top: -66%;
+    top: 9%;
   }
   .dropbtn:hover {
     padding-bottom: 0%;
   }
   nav .mainmenu li a {
     margin-top: -5%;
-    margin-left: -15%;
+    margin-left: -13%;
     height: 53%;
     font-size: larger;
-    top: -132%;
+    top: 7%;
     color: #000;
+  }
+  /* for the close button in the navigation */
+  nav .mainmenu .closebtn{
+    top: 52%;
   }
   /* for the main image */
   #IMG1 {
@@ -268,7 +272,7 @@
   }
   #para10 {
     margin-top: 2%;
-    width: 50%;
+    width: 43%;
     margin-left: 61%;
     margin-right: 0%;
     font-size: 85%;
@@ -276,7 +280,7 @@
   }
   .para11 {
     margin-top: 0.7%;
-    width: 35%;
+    width: 31%;
     margin-left: 61%;
     font-size: 85%;
     color: white;
@@ -330,6 +334,20 @@
     margin-top: 11%;
   }
 }
+@media only screen and (max-width: 425px){
+  /* for the green box button */
+  #acr{
+    width: 30%;
+  }
+  /* for the footer box section */
+  #lastblog{
+    height: 537px;
+  }
+  /* for the footer line */
+  #footer{
+    padding-top: 5%;
+  }
+}
 @media only screen and (max-width: 375px) {
   nav .mainmenu {
     height: 50%;
@@ -364,9 +382,17 @@
     width: 37%;
     margin-left: 30%;
   }
+  /* for the last footer box section */
+  #lastblog{
+    height: 555px;
+  }
+  /* for the image section text */
+  #para8{
+    width: 34%;
+  }
   /* for the service section */
   #service {
-    margin-top: -84%;
+    margin-top: -94%;
     margin-left: 59%;
   }
   #para10 {
@@ -376,6 +402,10 @@
   .para11 {
     width: 30%;
     margin-left: 59%;
+  }
+  /* for the technology section */
+  #Technology{
+    margin-top: 22%;
   }
   /* for the we're hiring section  */
   #wh {
@@ -390,7 +420,8 @@
   }
   /* for the footer line */
   #footer {
-    padding-top: 14%;
+    padding-top: 10%;
     font-size: 54%;
+    margin-left: 6%;
   }
 }
