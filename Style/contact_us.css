@@ -292,12 +292,10 @@ nav .Open_menu {
     margin-left: 10%;
     width: 49.5%;
     height: 50px;
-    cursor: pointer;
 }
 #submit:hover{
     background-color: #13BD7F;
     transition: background-color 0.5s;
-    border: #13BD7F;
 }
 /* for the second green box */
 #secondbox{
