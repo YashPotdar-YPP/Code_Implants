@@ -310,3 +310,190 @@
     font-size: 64%;
   }
 }
+@media only screen and (max-width: 425px) {
+  /* for the text on the image */
+  #atp {
+    margin-top: 4%;
+    font-size: 75%;
+  }
+  /* for the purple box text */
+  #para3 {
+    margin-left: 15%;
+  }
+  /* for the green box */
+  #box3 {
+    height: 27%;
+  }
+  /* for the green header text */
+  #bfh {
+    margin-left: 0%;
+    text-align: center;
+  }
+  /* for the green box paragraph text */
+  #para4 {
+    font-size: 97%;
+  }
+  /* for the green box button */
+  #rd {
+    padding-left: 8%;
+    width: 48%;
+  }
+  /* for the last box section */
+  #box4 {
+    height: 919px;
+  }
+  /* for the last box service section */
+  #service {
+    margin-top: -48%;
+  }
+  /* for the last box we're hiring section */
+  #wh {
+    margin-top: -34.8%;
+  }
+}
+@media only screen and (max-width: 375px) {
+  /* for the green box */
+  #box3 {
+    margin-left: -11%;
+    width: 68%;
+  }
+  /* for the last box image section box */
+  #img3 {
+    margin-left: 8%;
+  }
+  #para8 {
+    margin-left: 14%;
+  }
+  .para9 {
+    margin-left: 14%;
+  }
+  /* for the last box service section box */
+  #service {
+    margin-left: 56%;
+  }
+  #para10 {
+    margin-left: 56%;
+  }
+  .para11 {
+    margin-left: 56%;
+  }
+  /* for the last box technology section box */
+  #Technology {
+    margin-left: 14%;
+  }
+  #para12 {
+    margin-left: 14%;
+  }
+  .para13 {
+    margin-left: 14%;
+  }
+  /* for the last box we're hiring section box */
+  #wh {
+    margin-left: 56%;
+  }
+  #para14 {
+    margin-left: 56%;
+  }
+  .para15 {
+    margin-left: 56%;
+  }
+}
+@media only screen and (max-width: 320px) {
+  /* forthe mainmenu(ul) */
+  nav .mainmenu{
+    height: 40%;
+  }
+
+  /* for the hamburger menu service section */
+  .dropbtn {
+    margin-top: 21%;
+  }
+
+  /* for the main image */
+  #IMG1 {
+    margin-top: -57%;
+    margin-left: -50%;
+    width: 81%;
+  }
+  /* for the text on image */
+  #atp {
+    margin-left: -21%;
+  }
+  /* for the an overview */
+  #ao {
+    margin-top: 12%;
+    margin-left: -22%;
+  }
+  /* for the after an overview text */
+  #sechead {
+    font-size: 128%;
+    width: 73%;
+  }
+  #sechead {
+    width: 73%;
+    margin-left: -22%;
+  }
+  #para2 {
+    margin-left: -22%;
+    width: 71%;
+  }
+  /* for the second image */
+  #IMG2 {
+    margin-top: 1%;
+    margin-left: -35%;
+  }
+  /* for the purple box */
+  #box2{
+    height: 12%;
+  }
+  /* for the green box */
+  #box3 {
+    margin-left: -21%;
+  }
+  /* for the last box image text section */
+  #img3 {
+    margin-left: 11%;
+    width: 35%;
+  }
+  #para8 {
+    margin-left: 16%;
+  }
+  .para9 {
+    margin-left: 16%;
+  }
+  /* for the last box service text section */
+  #service {
+    margin-left: 52%;
+  }
+  #para10 {
+    margin-left: 52%;
+  }
+  .para11 {
+    margin-left: 52%;
+  }
+  /* for the last box technology text section */
+  #Technology {
+    margin-left: 16%;
+  }
+  #para12 {
+    margin-left: 16%;
+  }
+  .para13 {
+    margin-left: 16%;
+  }
+  /* for the last box we're hiring  text section */
+  #wh {
+    margin-left: 52%;
+  }
+  #para14 {
+    margin-left: 52%;
+  }
+  .para15 {
+    margin-left: 52%;
+  }
+  /* for the footer line */
+  #footer {
+    font-size: 66%;
+    width: 66%;
+  }
+}
